@@ -1,0 +1,70 @@
+﻿X509 Certificate Revocation List:
+Version: 2
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.5 sha1RSA
+    Algorithm Parameters:
+    05 00
+Issuer:
+    CN=vpi-VPI-SERVER-CA
+    DC=vpi
+    DC=local
+  Name Hash(sha1): 5479504d808c0be26e7fdd3772a59119f8e7ddfa
+  Name Hash(md5): 5ce70ae6072df42e26ebb76c9c06c9b2
+
+ ThisUpdate: 03.07.2019. 10:34
+ NextUpdate: 04.07.2019. 22:54
+CRL Entries: 0
+CRL Extensions: 6
+    2.5.29.35: Flags = 0, Length = 18
+    Authority Key Identifier
+        KeyID=a4 c2 64 e0 43 e4 52 7e 33 8e 4e 4c bc 85 07 23 41 2a f6 b1
+
+    1.3.6.1.4.1.311.21.1: Flags = 0, Length = 3
+    CA Version
+        V0.0
+
+    2.5.29.20: Flags = 0, Length = 3
+    CRL Number
+        CRL Number=02
+
+    1.3.6.1.4.1.311.21.4: Flags = 0, Length = f
+    Next CRL Publish
+        04.srpnja.2019. 10:44:49
+
+    2.5.29.27: Flags = 1(Critical), Length = 3
+    Delta CRL Indicator
+        Minimum Base CRL Number=01
+
+    1.3.6.1.4.1.311.21.14: Flags = 0, Length = c2
+    Published CRL Locations
+        [1]Locations
+             Distribution Point Name:
+                  Full Name:
+                       URL=ldap:///CN=vpi-VPI-SERVER-CA,CN=VPI-Server,CN=CDP,CN=Public Key Services,CN=Services,CN=Configuration,DC=vpi,DC=local?deltaRevocationList?base?objectClass=cRLDistributionPoint (ldap:///CN=vpi-VPI-SERVER-CA,CN=VPI-Server,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=vpi,DC=local?deltaRevocationList?base?objectClass=cRLDistributionPoint)
+
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.5 sha1RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  a3 fb d4 15 55 8e b5 bd  a3 b1 c0 3c f4 44 02 12
+    0010  37 42 ef c4 66 d4 2d 7c  e2 34 39 80 80 21 15 6c
+    0020  d9 10 22 1c a0 0b 39 11  e5 eb 7c ed 97 b6 b3 df
+    0030  7d c2 a6 f7 6e e6 e1 27  5d 96 fe 18 be a5 84 52
+    0040  49 37 2c bc 2a ac c6 ad  52 90 95 d0 2d c4 8e a9
+    0050  2a ec 05 f3 cb ce e6 dc  c0 cc 76 34 e7 78 7f 5f
+    0060  85 c0 0d e4 c4 af ad a0  55 82 91 b6 d8 b7 61 7f
+    0070  54 5e de 1e 32 16 60 a5  bb 69 ba af 8f 34 f0 79
+    0080  ef 21 ac 79 55 58 9f 20  ed be 55 59 7c fe 5f b0
+    0090  93 66 42 0b 59 40 02 bb  18 0c a5 93 91 12 d1 92
+    00a0  66 e7 eb 21 e1 d5 8b bc  ba 3a a5 44 22 1d 54 69
+    00b0  3b 4a df 95 80 cc c0 5b  6e 14 db ef e1 31 9b 5a
+    00c0  21 71 19 22 71 79 71 7c  8e 02 c7 89 0f 2e 62 dc
+    00d0  fb 6d a1 6a 3a d4 ec 57  23 65 b6 b1 df 5f 8c 24
+    00e0  50 91 da 08 19 81 58 34  47 88 a8 c2 7b 6c 7c c5
+    00f0  94 af 06 91 8e 1e 05 60  cf 38 75 a6 1d 3e 4c 66
+CRL Hash(md5): 34 18 56 54 97 49 33 da 17 7e eb 0a c0 80 39 42
+CRL Hash(sha1): fa 76 32 a1 31 30 95 b5 56 24 45 38 22 bf 13 90 3a 5b 7b 22
+CRL Hash(sha256): ba62b7a94cf3b40fc104ddddb3e645662ace85b2914f1d62b7128b5c6b558de3
+Signature Hash: 5ea4de6b2d0ed7bd3fc6079942a87541083039a2
+CertUtil: -dump command completed successfully.

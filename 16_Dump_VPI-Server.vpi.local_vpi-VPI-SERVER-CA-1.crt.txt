@@ -1,0 +1,89 @@
+﻿X509 Certificate:
+Version: 3
+Serial Number: 426b69326f46fc9c4c7be49036d693f4
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Issuer:
+    CN=vpi-VPI-SERVER-CA-1
+  Name Hash(sha1): 6cba553558cd613115b33be948bec0d21b5b2d02
+  Name Hash(md5): ef0150bbd56a44106330804811b6a103
+
+ NotBefore: 18.01.2020. 10:51
+ NotAfter: 10.01.2060. 10:51
+
+Subject:
+    CN=vpi-VPI-SERVER-CA-1
+  Name Hash(sha1): 6cba553558cd613115b33be948bec0d21b5b2d02
+  Name Hash(md5): ef0150bbd56a44106330804811b6a103
+
+Public Key Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.1 RSA
+    Algorithm Parameters:
+    05 00
+Public Key Length: 2048 bits
+Public Key: UnusedBits = 0
+    0000  30 82 01 0a 02 82 01 01  00 c0 bc b8 1a d2 75 e7
+    0010  46 b9 28 77 95 f1 d1 c5  07 3c e7 01 e8 c9 1e dc
+    0020  8f 56 a1 7d b3 49 3f c6  cc 51 fd 3b 53 57 25 52
+    0030  ce ad 3b 9f 14 ba 93 b6  24 99 6c 13 52 7c 75 9b
+    0040  d9 2d 93 9d 74 6a df 47  9f d1 e7 20 4f 96 d3 43
+    0050  e1 26 00 c2 d3 31 27 7a  ec 6b 18 7d a9 76 73 af
+    0060  aa bb f5 26 a7 df 0b 75  ea 0c cb a7 d1 13 c2 2c
+    0070  70 53 c6 d4 e6 40 3e a1  b3 0c 25 1a e0 b8 02 ad
+    0080  0d 0b bb 84 c8 52 d1 26  dc 8f b6 4f be d2 c8 bc
+    0090  72 73 e2 d0 fd 95 73 9f  e1 5a 04 5d 34 ac 68 99
+    00a0  91 21 55 eb 37 26 1c 6d  b6 1f 69 a7 a8 c2 88 59
+    00b0  bc 33 63 52 af 0c 7b a3  aa 47 df 0a b6 e1 4c b2
+    00c0  d2 20 a7 1f b7 64 47 25  b0 90 3f db d9 08 31 31
+    00d0  e0 a5 0e 28 92 d9 79 12  c9 06 ca 60 1f 48 e6 9c
+    00e0  dd b1 31 bd 8a 05 d5 64  7b 3c a1 a5 dd c3 3f 29
+    00f0  ce 5a 5f c9 1c a1 05 34  b5 fe 1d fd 96 46 b4 8a
+    0100  c2 24 35 05 1d 3d 93 d5  6b 02 03 01 00 01
+Certificate Extensions: 3
+    2.5.29.15: Flags = 1(Critical), Length = 4
+    Key Usage
+        Digital Signature, Certificate Signing, Off-line CRL Signing, CRL Signing (86)
+
+    2.5.29.19: Flags = 1(Critical), Length = 5
+    Basic Constraints
+        Subject Type=CA
+        Path Length Constraint=None
+
+    2.5.29.14: Flags = 0, Length = 16
+    Subject Key Identifier
+        ea 24 c0 11 f7 56 53 51 16 86 37 4d 39 2e 39 c6 f5 e3 e4 ac
+
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  76 c9 99 99 3b a7 6f e2  a2 d7 51 49 76 f5 cb b9
+    0010  31 89 e2 b7 93 ad 9c 22  6a ff 4c cb a4 e3 57 d4
+    0020  1d 9d db c9 88 b2 26 1b  9f a1 70 2d c3 d7 43 4c
+    0030  41 f0 fa 5e ff 25 4b da  35 99 e5 76 5a a7 da e4
+    0040  e4 4c ed 74 07 3d bb 9d  8b 35 5f e1 de 3f c5 30
+    0050  a6 98 7c 14 3c 37 8c 33  79 4d 87 e1 a5 b3 b6 01
+    0060  e9 79 e8 18 1c 00 1c dd  f2 af b7 29 0c e1 db a5
+    0070  49 94 59 8e 4e 2a 72 9b  eb 53 75 2a 94 24 c6 bd
+    0080  08 8c 47 31 93 f2 fd 6c  de 98 25 6c ab d5 11 e1
+    0090  a1 25 9a 3e af 01 c9 0d  64 23 e4 38 4f 3f 00 39
+    00a0  0b 7d be 69 1a ef 46 9f  86 34 df 3e 93 aa 7c 3f
+    00b0  b3 bb 7c 9e 13 a9 cb df  9e 99 ac e6 47 d6 14 7d
+    00c0  71 b0 23 b3 a2 6b 48 30  79 8e af c5 df af a0 16
+    00d0  62 54 40 32 e2 56 3f 39  40 1e b5 fe 72 f1 ed 05
+    00e0  33 ee 51 0b a8 cd 0f e4  47 b4 44 16 49 c6 59 e5
+    00f0  af 02 f9 26 64 f2 20 af  14 69 fd b7 e3 80 69 41
+Signature matches Public Key
+Root Certificate: Subject matches Issuer
+Key Id Hash(rfc-sha1): ea 24 c0 11 f7 56 53 51 16 86 37 4d 39 2e 39 c6 f5 e3 e4 ac
+Key Id Hash(sha1): db 02 2e 20 13 c9 22 dc 6a a9 7a e7 5f 42 c3 ad 86 d0 52 1e
+Key Id Hash(md5): f5e77354d00657c89f33854bf1a3effe
+Key Id Hash(sha256): b8d0efd9a9ad1788a0e59da2dad84383d8b6b68a4da9cb74fa2179fe43553bab
+Cert Hash(md5): 53 52 a0 b3 70 d1 0e ba 14 71 f0 35 25 1d 64 35
+Cert Hash(sha1): 23 9e f8 38 5c 60 ca c3 9a 68 01 f6 20 57 8d 0c c6 b5 05 a6
+Cert Hash(sha256): 0cdae03440989a5f6d14c2c07f749d71823597e43deed7c96b5bc3274f2445cf
+Signature Hash: 1054c3752bed1ec5983a866f30df7c2eef245ff5cbb5ab823f10fb99d98b9551
+CertUtil: -dump command completed successfully.

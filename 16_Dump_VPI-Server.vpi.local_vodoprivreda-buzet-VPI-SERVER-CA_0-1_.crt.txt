@@ -1,0 +1,120 @@
+﻿X509 Certificate:
+Version: 3
+Serial Number: 6d000000070816387cf8c09fac000000000007
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Issuer:
+    CN=vodoprivreda-buzet-VPI-SERVER-CA
+  Name Hash(sha1): 5e15cd4d48deda19cff88b43e560ef6c08d92ddc
+  Name Hash(md5): 29f1074b2c9c8d94d790efac0c7d0c26
+
+ NotBefore: 02.07.2019. 10:07
+ NotAfter: 01.06.2059. 19:42
+
+Subject:
+    CN=vodoprivreda-buzet-VPI-SERVER-CA
+  Name Hash(sha1): 5e15cd4d48deda19cff88b43e560ef6c08d92ddc
+  Name Hash(md5): 29f1074b2c9c8d94d790efac0c7d0c26
+
+Public Key Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.1 RSA
+    Algorithm Parameters:
+    05 00
+Public Key Length: 2048 bits
+Public Key: UnusedBits = 0
+    0000  30 82 01 0a 02 82 01 01  00 af 64 d0 3e ee c8 91
+    0010  00 7d 6c ba 27 92 b6 b6  4c 6b fa 75 59 5f 26 8d
+    0020  97 2b 17 27 3d 2e c7 e0  36 89 b9 cc da 63 1f 6d
+    0030  f5 be 50 48 94 7a 31 9c  71 28 fb ce 47 2b 96 fd
+    0040  6e 06 23 3a a9 ec f7 4e  ef 37 40 d4 54 e0 e4 46
+    0050  fe 43 fe 82 69 ca 13 65  6c 0e 67 75 61 4c fe 14
+    0060  a1 40 80 76 c7 3c 9b 4f  f6 66 b4 b3 ea 9a 0a f5
+    0070  15 18 4f 52 bc 1b 99 7a  71 82 93 f0 d1 78 06 c3
+    0080  ec 31 2d c9 88 20 9d 8d  38 21 d2 ef 52 16 c8 c3
+    0090  57 ca 36 c0 d2 c0 89 4c  bb 07 74 1f 95 6e 38 c1
+    00a0  70 16 72 7e 60 33 77 49  82 eb 04 85 3c ca 0d 15
+    00b0  96 36 0e 1a 81 24 51 02  d8 fe 75 4c 5d 39 77 88
+    00c0  c3 b7 4e 3f dd 60 28 bd  c4 1c 7a 5f e5 bc a6 12
+    00d0  86 ff 4c a3 77 17 b0 3a  36 cd 5c bf 53 c8 be 5f
+    00e0  30 77 a5 5b bd b2 17 f3  1e 30 85 f0 1b 14 77 c4
+    00f0  1b 24 02 1b d5 9f 8e a3  4c 18 b8 33 0c 74 ff eb
+    0100  95 ae 8a 39 f2 3d 7f 8b  f1 02 03 01 00 01
+Certificate Extensions: 9
+    2.5.29.14: Flags = 0, Length = 16
+    Subject Key Identifier
+        bf c4 e7 bb c5 08 aa 2f d8 97 33 93 82 6c 76 25 78 9c bc 34
+
+    1.3.6.1.4.1.311.21.22: Flags = 0, Length = 3
+    Cross CA Version
+    Unknown Extension type
+    CA Version: (0-1)
+
+    2.5.29.35: Flags = 0, Length = 18
+    Authority Key Identifier
+        KeyID=0d b6 6a 10 2b f2 12 11 ee bb b0 fc fb 74 67 64 0b 49 45 4f
+
+    2.5.29.31: Flags = 0, Length = 4b
+    CRL Distribution Points
+        [1]CRL Distribution Point
+             Distribution Point Name:
+                  Full Name:
+                       URL=http://VPI-Server/CertEnroll/vodoprivreda-buzet-VPI-SERVER-CA.crl
+
+    1.3.6.1.5.5.7.1.1: Flags = 0, Length = c3
+    Authority Information Access
+        [1]Authority Info Access
+             Access Method=Certification Authority Issuer (1.3.6.1.5.5.7.48.2)
+             Alternative Name:
+                  URL=ldap:///CN=vodoprivreda-buzet-VPI-SERVER-CA,CN=AIA,CN=Public Key Services,CN=Services,CN=Configuration,DC=vpi,DC=local?cACertificate?base?objectClass=certificationAuthority (ldap:///CN=vodoprivreda-buzet-VPI-SERVER-CA,CN=AIA,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=vpi,DC=local?cACertificate?base?objectClass=certificationAuthority)
+
+    1.3.6.1.4.1.311.20.2: Flags = 0, Length = 10
+    Certificate Template Name (Certificate Type)
+        CrossCA
+
+    2.5.29.15: Flags = 0, Length = 4
+    Key Usage
+        Digital Signature, Certificate Signing, Off-line CRL Signing, CRL Signing (86)
+
+    2.5.29.32: Flags = 0, Length = a
+    Certificate Policies
+        [1]Certificate Policy:
+             Policy Identifier=All issuance policies
+
+    2.5.29.19: Flags = 1(Critical), Length = 5
+    Basic Constraints
+        Subject Type=CA
+        Path Length Constraint=None
+
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  2c 3b 0f f4 01 32 34 0f  09 c4 57 79 93 4d 57 4e
+    0010  44 52 91 fe dd 10 d3 e0  96 7f 63 d0 3d 9e 94 b8
+    0020  e1 be ab 3e 0b 94 11 f3  38 ff 8b 2b 21 e7 28 8a
+    0030  92 2c 74 1b be 58 be 4e  5d cd 51 32 98 1a 50 24
+    0040  a6 59 db 21 81 04 d0 3a  15 fb 76 b1 90 8f a9 57
+    0050  24 0f 55 60 45 09 2a 17  4b 81 39 d1 ec 89 25 2d
+    0060  cc 39 5f 07 c5 5a 37 26  ad 82 32 92 6a b6 f1 3a
+    0070  c4 d7 78 2b 3c 7d c1 54  20 f5 fa 31 8c 42 bd ba
+    0080  a7 46 2e 50 83 30 bf 7a  6e 27 c3 6e 8d fb 18 d3
+    0090  6a 07 66 ac 50 83 db 48  2c d1 cb 6e a7 32 73 5b
+    00a0  a6 50 47 b0 3a 9e 69 52  b9 c0 6e af 01 a1 01 57
+    00b0  7a e7 cf de 8f 46 63 0d  51 dd 06 f8 db 0d be eb
+    00c0  8a 61 6b 4c 03 f4 b3 9b  e6 5b 85 2b db d3 f3 f8
+    00d0  2d dd 31 af 60 31 85 94  ba 1a 19 f3 f4 98 49 3d
+    00e0  18 af bd 3c 3b 10 f5 c7  5c c0 b9 be d4 7d e3 0c
+    00f0  93 36 f6 1a 03 8b a9 9f  0e 77 b6 9a 9b 73 ff 5c
+Possible Root Certificate: Subject matches Issuer, but Signature check fails: c000a000
+Key Id Hash(rfc-sha1): bf c4 e7 bb c5 08 aa 2f d8 97 33 93 82 6c 76 25 78 9c bc 34
+Key Id Hash(sha1): 53 fc 4f 5b de 24 f7 aa d0 2c bc 9f 22 3e c1 2b d3 e3 e5 bb
+Key Id Hash(md5): b641db274f0f7d6ebd1a5ee64d6c66db
+Key Id Hash(sha256): 1773df8da7c363aeb793162e9f904f7c2a1d5e86e5d4de0481b85b77616326ad
+Cert Hash(md5): 0f a8 4c 97 c8 51 55 b3 a8 87 0c a7 53 cb 3f 20
+Cert Hash(sha1): 89 d9 02 e9 0d 7f 80 aa 13 ec e8 24 05 38 87 20 70 12 38 8a
+Cert Hash(sha256): d51f140727f3479a2a596ef0a776a4fc0d1adea229685162ce226a4cb8f0e348
+Signature Hash: 46c26a7b3ba046b6301c9dfcf6f2388445ff00dd59b1845212d24dd70088cd88
+CertUtil: -dump command completed successfully.

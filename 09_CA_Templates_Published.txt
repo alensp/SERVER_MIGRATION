@@ -1,0 +1,27 @@
+﻿certutil.exe : 437.625.0:<2026/8/31, 17:44:53>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND): CADescription
+At C:\TEMP\VPISERVER_ADCS_ReadOnly_Audit.ps1:82 char:5
++     certutil.exe -catemplates
++     ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (437.625.0:<2026...: CADescription:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+419.6336.0:<2026/8/31, 17:44:53>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+
+437.2132.0:<2026/8/31, 17:44:53>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+
+437.625.0:<2026/8/31, 17:44:53>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND): ParentCAName
+
+WindowsServerSolutionsComputerCertificateTemplate: Windows Server Solutions Computer Certificate Template -- Auto-Enroll: Access is denied.
+DirectoryEmailReplication: Directory Email Replication -- Auto-Enroll: Access is denied.
+DomainControllerAuthentication: Domain Controller Authentication -- Auto-Enroll: Access is denied.
+KerberosAuthentication: Kerberos Authentication -- Auto-Enroll: Access is denied.
+EFSRecovery: EFS Recovery Agent -- Auto-Enroll: Access is denied.
+EFS: Basic EFS -- Auto-Enroll: Access is denied.
+DomainController: Domain Controller -- Auto-Enroll: Access is denied.
+WebServer: Web Server -- Auto-Enroll: Access is denied.
+Machine: Computer -- Auto-Enroll: Access is denied.
+User: User -- Auto-Enroll: Access is denied.
+SubCA: Subordinate Certification Authority -- Auto-Enroll: Access is denied.
+Administrator: Administrator -- Auto-Enroll: Access is denied.
+CertUtil: -CATemplates command completed successfully.
+

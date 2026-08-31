@@ -1,0 +1,22 @@
+﻿certutil.exe : 437.625.0:<2026/8/31, 17:44:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND): CADescription
+At C:\TEMP\VPISERVER_ADCS_ReadOnly_Audit.ps1:98 char:5
++     certutil.exe -view -restrict "Disposition=30" -out "RequestID,RequesterName, ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (437.625.0:<2026...: CADescription:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+419.6336.0:<2026/8/31, 17:44:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+
+437.2132.0:<2026/8/31, 17:44:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+
+437.625.0:<2026/8/31, 17:44:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND): ParentCAName
+
+1207.1143.0:<2026/8/31, 17:44:54>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION)
+
+1207.1342.0:<2026/8/31, 17:44:54>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION): Request.Disposition
+
+"Issued Request ID","Requester Name","Certificate Template","Issued Common Name","Request Submission Date","Request Disposition Message"
+"35","VPI\VPI-SERVER$","EMPTY","EMPTY","21.05.2020. 10:11","Error Verifying Request Signature or Signing Certificate"
+"37","VPI\VPI-SERVER$","EMPTY","EMPTY","21.05.2020. 10:11","Error Verifying Request Signature or Signing Certificate"
+"39","VPI\VPI-SERVER$","EMPTY","EMPTY","21.05.2020. 10:11","Error Verifying Request Signature or Signing Certificate"
+

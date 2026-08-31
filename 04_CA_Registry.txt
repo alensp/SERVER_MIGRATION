@@ -1,0 +1,358 @@
+﻿
+
+Active             : vpi-VPI-SERVER-CA-1
+DBDirectory        : C:\Windows\system32\CertLog
+DBLogDirectory     : C:\Windows\system32\CertLog
+DBTempDirectory    : C:\Windows\system32\CertLog
+DBSystemDirectory  : C:\Windows\system32\CertLog
+DBSessionCount     : 100
+LDAPFlags          : 0
+DBFlags            : 176
+Version            : 393217
+SetupStatus        : 24579
+WebClientCAMachine : 
+WebClientCAName    : 
+WebClientCAType    : 5
+debug              : 4294967267
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc
+PSChildName        : Configuration
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1 =====
+
+
+DSConfigDN                        : CN=Configuration,DC=vpi,DC=local
+DSDomainDN                        : DC=vpi,DC=local
+ViewAgeMinutes                    : 16
+ViewIdleMinutes                   : 8
+CAType                            : 0
+UseDS                             : 1
+ForceTeletex                      : 18
+SignedAttributes                  : {RequesterName}
+EKUOIDsForPublishExpiredCertInCRL : {1.3.6.1.5.5.7.3.3, 1.3.6.1.4.1.311.61.1.1}
+CommonName                        : vpi-VPI-SERVER-CA-1
+Enabled                           : 1
+PolicyFlags                       : 0
+CertEnrollCompatible              : 0
+CRLEditFlags                      : 256
+CRLFlags                          : 2
+InterfaceFlags                    : 1601
+EnforceX500NameLengths            : 1
+SubjectTemplate                   : {EMail, CommonName, OrganizationalUnit, Organization...}
+ClockSkewMinutes                  : 1440
+LogLevel                          : 3
+HighSerial                        : 113
+CAServerName                      : VPI-Server.vpi.local
+ValidityPeriod                    : Years
+ValidityPeriodUnits               : 30
+KRACertHash                       : {}
+KRACertCount                      : 0
+KRAFlags                          : 0
+CRLPublicationURLs                : {65:C:\Windows\system32\CertSrv\CertEnroll\%3%8%9.crl, 8:ldap:///CN=%7%8,CN=%2,CN=CDP,CN=Public Key Services,CN=Services,%6%10, 6:http://%2/CertEnroll/%3%8%9.crl, 0:file://%2/CertEnroll/%3%8%9.crl}
+CRLPeriod                         : Weeks
+CRLPeriodUnits                    : 1
+CRLOverlapPeriod                  : Hours
+CRLOverlapUnits                   : 0
+CRLDeltaPeriod                    : Days
+CRLDeltaPeriodUnits               : 1
+CRLDeltaOverlapPeriod             : Minutes
+CRLDeltaOverlapUnits              : 0
+CAXchgValidityPeriod              : Weeks
+CAXchgValidityPeriodUnits         : 1
+CAXchgOverlapPeriod               : Days
+CAXchgOverlapPeriodUnits          : 1
+MaxIncomingMessageSize            : 65536
+MaxIncomingAllocSize              : 65536
+CACertPublicationURLs             : {1:C:\Windows\system32\CertSrv\CertEnroll\%1_%3%4.crt, 3:ldap:///CN=%7,CN=AIA,CN=Public Key Services,CN=Services,%6%11, 0:http://%1/CertEnroll/%1_%3%4.crt, 0:file://%1/CertEnroll/%1_%3%4.crt}
+CACertHash                        : {23 9e f8 38 5c 60 ca c3 9a 68 01 f6 20 57 8d 0c c6 b5 05 a6}
+Security                          : {1, 0, 20, 132...}
+SetupStatus                       : 3
+CRLNextPublish                    : {56, 52, 170, 231...}
+CRLDeltaNextPublish               : {7, 168, 77, 191...}
+debug                             : 4294967267
+CAXchgCertHash                    : {a2 14 b7 20 56 47 97 4b ec e6 51 fd ee 89 3e c9 11 45 c1 8c}
+PSPath                            : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+PSParentPath                      : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration
+PSChildName                       : vpi-VPI-SERVER-CA-1
+PSProvider                        : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CSP =====
+
+
+ProviderType          : 0
+Provider              : Microsoft Software Key Storage Provider
+HashAlgorithm         : 4294967295
+CNGPublicKeyAlgorithm : RSA
+CNGHashAlgorithm      : SHA256
+MachineKeyset         : 1
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CSP
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+PSChildName           : CSP
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\EncryptionCSP =====
+
+
+ProviderType           : 0
+Provider               : Microsoft Software Key Storage Provider
+EncryptionAlgorithm    : 26115
+CNGPublicKeyAlgorithm  : RSA
+CNGEncryptionAlgorithm : 3DES
+MachineKeyset          : 1
+KeySize                : 2048
+SymmetricKeySize       : 168
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\EncryptionCSP
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+PSChildName            : EncryptionCSP
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules =====
+
+
+Active       : {CertificateAuthority_MicrosoftDefault.Exit}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+PSChildName  : ExitModules
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit =====
+
+
+PublishCertFlags : 2
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules
+PSChildName      : CertificateAuthority_MicrosoftDefault.Exit
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP =====
+
+
+EventFilter      : 0
+SMTPServer       : 
+SMTPAuthenticate : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit
+PSChildName      : SMTP
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\CRLIssued =====
+
+
+BodyFormat   : {CRL(s) issued}
+BodyArg      : {}
+TitleFormat  : CRL(s) issued by %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\CRLIssued
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+PSChildName  : CRLIssued
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Shutdown =====
+
+
+BodyFormat   : {Active Directory Certificate Services shutdown}
+BodyArg      : {}
+TitleFormat  : Active Directory Certificate Services shutdown on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Shutdown
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+PSChildName  : Shutdown
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Startup =====
+
+
+BodyFormat   : {Active Directory Certificate Services startup}
+BodyArg      : {}
+TitleFormat  : Active Directory Certificate Services startup on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Startup
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+PSChildName  : Startup
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates =====
+
+
+Active       : {Default}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+PSChildName  : Templates
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default =====
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Denied =====
+
+
+BodyFormat   : {Request ID: %1,  , Requester Name: %2,  ...}
+BodyArg      : {Request.RequestID, Request.RequesterName, Request.SubmittedWhen.GMT, Request.DistinguishedName...}
+TitleFormat  : Certificate request denied by %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Denied
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Denied
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Imported =====
+
+
+BodyFormat   : {Request ID: %1,  , Serial Number: %2,  ...}
+BodyArg      : {RequestID, SerialNumber, NotBefore.GMT, NotAfter.GMT...}
+TitleFormat  : Certificate imported by %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Imported
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Imported
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Issued =====
+
+
+BodyFormat   : {Request ID: %1,  , User: %2,  ...}
+BodyArg      : {RequestID, upn, Request.RequesterName, SerialNumber...}
+TitleFormat  : Certificate issued by %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Issued
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Issued
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Pending =====
+
+
+BodyFormat   : {Request ID: %1,  , User: %2,  ...}
+BodyArg      : {Request.RequestID, upn, Request.RequesterName, Request.SubmittedWhen.GMT...}
+TitleFormat  : Certificate request pending on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Pending
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Pending
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\RetrievePending =====
+
+
+BodyFormat   : {Request ID: %1,  , Requester Name: %2,  ...}
+BodyArg      : {RequestID, Request.RequesterName, SerialNumber, DistinguishedName}
+TitleFormat  : Certificate retrieved on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\RetrievePending
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : RetrievePending
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Revoked =====
+
+
+BodyFormat   : {Request ID: %1,  , Revocation Date (GMT): %2,  ...}
+BodyArg      : {RequestID, Request.RevokedWhen.GMT, Request.RevokedEffectiveWhen.GMT, Request.RevokedReason...}
+TitleFormat  : Certificate revoked on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Revoked
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Revoked
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Unrevoked =====
+
+
+BodyFormat   : {Request ID: %1,  , Revocation Date (GMT): %2,  ...}
+BodyArg      : {RequestID, Request.RevokedWhen.GMT, Request.RevokedEffectiveWhen.GMT, Request.RevokedReason...}
+TitleFormat  : Certificate unrevoked on %1
+TitleArg     : {SanitizedCAName}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Unrevoked
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+PSChildName  : Unrevoked
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules =====
+
+
+Active       : CertificateAuthority_MicrosoftDefault.Policy
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+PSChildName  : PolicyModules
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules\CertificateAuthority_MicrosoftDefault.Policy =====
+
+
+RevocationType                     : 256
+CAPathLength                       : 4294967295
+RevocationURL                      : https://%1/CertEnroll/nsrev_%3.asp
+EnableRequestExtensionList         : {1.2.840.113549.1.9.15, 1.3.6.1.4.1.311.21.1, 1.3.6.1.4.1.311.21.2, 2.5.29.15}
+EnableEnrolleeRequestExtensionList : {1.3.6.1.4.1.311.10.9.1, 1.3.6.1.4.1.311.20.2, 1.3.6.1.4.1.311.21.7, 1.3.6.1.4.1.311.21.10...}
+DisableExtensionList               : {}
+SubjectAltName                     : DISABLED: Set to EMail to set SubjectAltName extension to the email address
+SubjectAltName2                    : DISABLED: Set to EMail to set SubjectAltName2 extension to the email address
+RequestDisposition                 : 1
+EditFlags                          : 1114446
+DefaultSMIME                       : {1.2.840.113549.3.2,128, 1.2.840.113549.3.4,128, 1.3.14.3.2.7, 1.2.840.113549.3.7}
+PSPath                             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules\CertificateAuthority_MicrosoftDefault.Policy
+PSParentPath                       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules
+PSChildName                        : CertificateAuthority_MicrosoftDefault.Policy
+PSProvider                         : Microsoft.PowerShell.Core\Registry
+
+
+
+
