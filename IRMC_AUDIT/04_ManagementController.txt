@@ -1,0 +1,43 @@
+﻿
+
+Caption                     : 
+Description                 : 
+ElementName                 : iRMC S6
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 
+HealthState                 : 5
+InstallDate                 : 
+Name                        : SZ2427K00049 iRMC S6
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 
+Status                      : 
+StatusDescriptions          : 
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 5
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+CreationClassName           : SVS_PGYManagementController
+IdentifyingDescriptions     : 
+NameFormat                  : 
+OtherIdentifyingInfo        : 
+PrimaryOwnerContact         : 
+PrimaryOwnerName            : 
+Roles                       : 
+Dedicated                   : {28}
+OtherDedicatedDescriptions  : 
+PowerManagementCapabilities : 
+ResetCapability             : 
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYManagementController
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+

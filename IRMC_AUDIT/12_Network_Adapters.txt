@@ -1,0 +1,26 @@
+﻿
+Name                                  InterfaceDescription                        Status      MacAddress        LinkSpeed HardwareInterface InterfaceIndex
+----                                  --------------------                        ------      ----------        --------- ----------------- --------------
+Ethernet (Kernel Debugger)            Microsoft Kernel Debug Network Adapter      Not Present                   0 bps                 False             18
+vSwitch-LAN                           Hyper-V Virtual Ethernet Adapter            Up          34-FE-9E-CA-F0-5A 1 Gbps                False             17
+LAN1-HyperV                           Intel(R) I210 Gigabit Network Connection    Up          34-FE-9E-CA-F0-5A 1 Gbps                 True             16
+Teredo Tunneling Pseudo-Interface                                                 Not Present                   0 bps                 False             11
+LAN2-Reserve                          Intel(R) I210 Gigabit Network Connection #2 Not Present 34-FE-9E-CA-F0-5B 0 bps                  True              9
+vSwitch (vSwitch-LAN)                 Hyper-V Virtual Switch Extension Adapter    Up                            10 Gbps               False              5
+Microsoft IP-HTTPS Platform Interface                                             Not Present                   0 bps                 False              4
+6to4 Adapter                                                                      Not Present                   0 bps                 False              2
+
+
+
+=== PHYSICAL NIC PNP IDs ===
+
+
+FriendlyName : Intel(R) I210 Gigabit Network Connection
+InstanceId   : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05A00
+
+FriendlyName : Intel(R) I210 Gigabit Network Connection #2
+InstanceId   : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05B00
+
+
+
+

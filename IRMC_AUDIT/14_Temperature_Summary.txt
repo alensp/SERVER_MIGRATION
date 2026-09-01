@@ -1,0 +1,23 @@
+﻿
+ElementName     CurrentReading UpperThresholdNonCritical UpperThresholdCritical CurrentState Statu
+                                                                                             s    
+-----------     -------------- ------------------------- ---------------------- ------------ -----
+Ambient                     25                        36                     39 Normal       OK   
+PCIe Zone1                  32                        55                     59 Normal       OK   
+PCIe Zone2                  36                        60                     64 Normal       OK   
+CPU                         58                       100                    101 Normal       OK   
+MEM 1A                      31                        78                     82 Normal       OK   
+MEM 1B                      32                        78                     82 Normal       OK   
+MEM 2A                      31                        78                     82 Normal       OK   
+MEM 2B                      32                        78                     82 Normal       OK   
+PSU1 Inlet                  36                        64                     68 Normal       OK   
+PSU2 Inlet                  38                        64                     68 Normal       OK   
+PSU1                        42                        90                     94 Normal       OK   
+PSU2                        43                        90                     94 Normal       OK   
+RAID Controller             46                       105                    109 Normal       OK   
+Expander                    42                       105                    109 Normal       OK   
+SSD                         36                        70                     73 Normal       OK   
+PCH                         43                        98                    103 Normal       OK   
+
+
+

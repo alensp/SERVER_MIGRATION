@@ -1,0 +1,42 @@
+﻿=== SCSI / STORAGE CONTROLLERS ===
+
+
+Name         : Microsoft Storage Spaces Controller
+Manufacturer : Microsoft
+DeviceID     : ROOT\SPACEPORT\0000
+PNPDeviceID  : ROOT\SPACEPORT\0000
+Status       : OK
+
+Name         : Microsoft VHD Loopback Controller
+Manufacturer : Microsoft
+DeviceID     : {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+PNPDeviceID  : {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+Status       : OK
+
+Name         : Broadcom MegaRAID SAS Adapter Aero
+Manufacturer : AVAGO TECH.
+DeviceID     : PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+PNPDeviceID  : PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+Status       : OK
+
+
+
+
+=== STORAGE CONTROLLERS (PnP) ===
+
+Status Class       FriendlyName                       InstanceId                                                   
+------ -----       ------------                       ----------                                                   
+OK     SCSIAdapter Broadcom MegaRAID SAS Adapter Aero PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+OK     System      RAID Virtual Device                SCSI\OTHER&VEN___RAID&PROD__DUMMYDEVICE\5&3B01E950&0&014000  
+
+
+
+=== PHYSICAL DISKS ===
+
+FriendlyName          SerialNumber                     MediaType BusType HealthStatus OperationalStatus          Size
+------------          ------------                     --------- ------- ------------ -----------------          ----
+BROADCOM PRAID CP600i 009a8823219c830f32c0f38424b26200 SSD       RAID    Healthy      OK                 959656755200
+BROADCOM PRAID CP600i 003e8ee9e4cb840f32c0f38424b26200 SSD       RAID    Healthy      OK                3839633653760
+
+
+

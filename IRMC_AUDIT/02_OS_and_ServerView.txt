@@ -1,0 +1,37 @@
+﻿=== OS ===
+
+
+Caption        : Microsoft Windows Server 2025 Standard
+Version        : 10.0.26100
+BuildNumber    : 26100
+OSArchitecture : 64-bit
+LastBootUpTime : 25.8.2026. 3:29:17
+
+
+
+
+=== SERVERVIEW SERVICES ===
+
+ Status StartType Name            DisplayName                
+ ------ --------- ----            -----------                
+Running Automatic RemoteConnector ServerView Remote Connector
+Running Automatic SrvCtrl         ServerView Server Control  
+Running Automatic SNMP            SNMP Service               
+Stopped    Manual SNMPTrap        SNMP Trap                  
+
+
+
+=== SERVERVIEW EXECUTABLE VERSIONS ===
+
+File                                                                              FileVersion ProductVersion
+----                                                                              ----------- --------------
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Configuration Tools\SCConfig.exe 11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Diagnostics Tools\SCDoctor.exe   11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Maintenance Tools\SCConfig.exe   11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\SCM\SCM.exe                      11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Server Control\SCProfile.exe     11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Server Control\SrvCtrl.exe       11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Remote Connector\SVRemCon.exe           4.30.00.02  4.30.00.02    
+
+
+

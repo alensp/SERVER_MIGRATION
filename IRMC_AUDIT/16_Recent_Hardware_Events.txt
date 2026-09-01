@@ -1,0 +1,3790 @@
+﻿===== System =====
+
+
+TimeCreated      : 1.9.2026. 16:45:28
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has started successfully.
+
+TimeCreated      : 1.9.2026. 16:45:24
+Id               : 1500
+LevelDisplayName : Error
+ProviderName     : SNMP
+Message          : The SNMP Service encountered an error while accessing the registry key SYSTEM\CurrentControlSet\Services\SNMP\Parameters\TrapConfiguration.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The ServerView Server Control service entered the running state.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The ServerView Remote Connector service entered the running state.
+
+TimeCreated      : 1.9.2026. 16:45:18
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView ScSBB3 Device Driver
+                   Service File Name:  \SystemRoot\System32\drivers\ScSBB3.sys
+                   Service Type:  kernel mode driver
+                   Service Start Type:  demand start
+                   Service Account:  
+
+TimeCreated      : 1.9.2026. 16:45:16
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView HTI Device Driver
+                   Service File Name:  \SystemRoot\System32\drivers\SvHTI.sys
+                   Service Type:  kernel mode driver
+                   Service Start Type:  demand start
+                   Service Account:  
+
+TimeCreated      : 1.9.2026. 16:45:15
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView Server Control
+                   Service File Name:  "C:\Program Files\Fujitsu\ServerView Suite\Agents\Server Control\SrvCtrl.exe" /SVAGT
+                   Service Type:  user mode service
+                   Service Start Type:  auto start
+                   Service Account:  LocalSystem
+
+TimeCreated      : 1.9.2026. 16:45:15
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView Remote Connector
+                   Service File Name:  "C:\Program Files\Fujitsu\ServerView Suite\Remote Connector\SVRemCon.exe"
+                   Service Type:  user mode service
+                   Service Start Type:  auto start
+                   Service Account:  LocalSystem
+
+TimeCreated      : 1.9.2026. 16:44:58
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has stopped successfully.
+
+TimeCreated      : 1.9.2026. 16:41:27
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has started successfully.
+
+TimeCreated      : 1.9.2026. 16:41:25
+Id               : 1500
+LevelDisplayName : Error
+ProviderName     : SNMP
+Message          : The SNMP Service encountered an error while accessing the registry key SYSTEM\CurrentControlSet\Services\SNMP\Parameters\TrapConfiguration.
+
+TimeCreated      : 1.9.2026. 16:23:51
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 4 to 6.
+                   
+                   Reason InputAccelerometer 
+                   
+                   BootId: 11
+
+TimeCreated      : 31.8.2026. 19:41:33
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 3 to 4.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 11
+
+TimeCreated      : 31.8.2026. 17:30:31
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputAccelerometer 
+                   
+                   BootId: 11
+
+TimeCreated      : 25.8.2026. 3:39:21
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 11
+
+TimeCreated      : 25.8.2026. 3:34:22
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 25.8.2026. 3:29:19
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 25.8.2026. 3:29:19
+Id               : 41
+LevelDisplayName : Critical
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.
+
+TimeCreated      : 25.8.2026. 3:29:19
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 25.8.2026. 3:29:17
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 25.8.2026. 3:29:17
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎25T03:29:16.000000000Z.
+
+TimeCreated      : 25.8.2026. 3:29:17
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 24.8.2026. 18:56:50
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 10
+
+TimeCreated      : 24.8.2026. 17:51:38
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 24.8.2026. 17:46:36
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 24.8.2026. 17:46:36
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 24.8.2026. 17:46:34
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 24.8.2026. 17:46:34
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎24T17:46:33.000000000Z.
+
+TimeCreated      : 24.8.2026. 17:46:34
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 24.8.2026. 17:43:35
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 24.8.2026. 17:43:35
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 24.8.2026. 17:34:53
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 7 to 9.
+                   
+                   Reason SleepButton 
+                   
+                   BootId: 9
+
+TimeCreated      : 22.8.2026. 17:01:49
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 6 to 7.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 9
+
+TimeCreated      : 22.8.2026. 15:09:12
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 4 to 6.
+                   
+                   Reason SleepButton 
+                   
+                   BootId: 9
+
+TimeCreated      : 21.8.2026. 23:18:44
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 3 to 4.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 9
+
+TimeCreated      : 21.8.2026. 19:29:25
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason SleepButton 
+                   
+                   BootId: 9
+
+TimeCreated      : 21.8.2026. 14:36:32
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 9
+
+TimeCreated      : 21.8.2026. 14:26:12
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 21.8.2026. 14:26:09
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the stopped state.
+
+TimeCreated      : 21.8.2026. 14:26:09
+Id               : 7042
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+                   
+                    The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+                   
+                    Comment: None
+
+TimeCreated      : 21.8.2026. 14:26:03
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 21.8.2026. 14:21:00
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 21.8.2026. 14:21:00
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 21.8.2026. 14:20:58
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 21.8.2026. 14:20:58
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎21T14:20:57.000000000Z.
+
+TimeCreated      : 21.8.2026. 14:20:58
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 20.8.2026. 22:08:05
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 20.8.2026. 22:08:05
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Shutdown Off 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 20.8.2026. 22:03:14
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputAccelerometer 
+                   
+                   BootId: 8
+
+TimeCreated      : 20.8.2026. 18:49:50
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 8
+
+TimeCreated      : 20.8.2026. 18:44:50
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 20.8.2026. 18:39:46
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 20.8.2026. 18:39:46
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 20.8.2026. 18:39:44
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 20.8.2026. 18:39:44
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎20T18:39:42.000000000Z.
+
+TimeCreated      : 20.8.2026. 18:39:44
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 14.8.2026. 23:28:05
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 14.8.2026. 23:28:04
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Shutdown Off 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 14.8.2026. 23:27:31
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 16 to 18.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 20:21:28
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 15 to 16.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:57:20
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 13 to 15.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:26:27
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 12 to 13.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:16:26
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 10 to 12.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:16:16
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 9 to 10.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:01:38
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 7 to 9.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 19:01:24
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 6 to 7.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 18:44:36
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 4 to 6.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 18:21:39
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 3 to 4.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 16:45:34
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 16:42:19
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 7
+
+TimeCreated      : 14.8.2026. 15:39:40
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 14.8.2026. 15:34:38
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 14.8.2026. 15:34:38
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 14.8.2026. 15:34:36
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 14.8.2026. 15:34:36
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎14T15:34:34.000000000Z.
+
+TimeCreated      : 14.8.2026. 15:34:36
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 20:22:15
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 20:22:15
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Shutdown Off 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 20:17:20
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 10 to 12.
+                   
+                   Reason InputAccelerometer 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 19:48:00
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 9 to 10.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 19:37:59
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 7 to 9.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 19:37:45
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 6 to 7.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 19:13:44
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 19:13:40
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the stopped state.
+
+TimeCreated      : 13.8.2026. 19:13:40
+Id               : 7042
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+                   
+                    The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+                   
+                    Comment: None
+
+TimeCreated      : 13.8.2026. 18:55:25
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 4 to 6.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 18:53:13
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 3 to 4.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 18:43:13
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 18:43:01
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 6
+
+TimeCreated      : 13.8.2026. 18:07:35
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 13.8.2026. 18:02:38
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 18:02:33
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 18:02:33
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 18:02:31
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 18:02:31
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T09:02:29.000000000Z.
+
+TimeCreated      : 13.8.2026. 18:02:31
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 17:59:36
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 17:59:36
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 17:40:26
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 4 to 6.
+                   
+                   Reason InputAccelerometer 
+                   
+                   BootId: 5
+
+TimeCreated      : 13.8.2026. 15:27:27
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 3 to 4.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 5
+
+TimeCreated      : 13.8.2026. 15:17:27
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 5
+
+TimeCreated      : 13.8.2026. 15:17:12
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 5
+
+TimeCreated      : 13.8.2026. 15:09:10
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 13.8.2026. 15:04:12
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 15:04:07
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 15:04:07
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 15:04:05
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 15:04:05
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T06:04:04.000000000Z.
+
+TimeCreated      : 13.8.2026. 15:04:05
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 15:01:12
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 15:01:12
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 14:58:12
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 1 to 3.
+                   
+                   Reason InputHid 
+                   
+                   BootId: 4
+
+TimeCreated      : 13.8.2026. 14:57:53
+Id               : 566
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system session has transitioned from 0 to 1.
+                   
+                   Reason SessionUnlock 
+                   
+                   BootId: 4
+
+TimeCreated      : 13.8.2026. 14:48:56
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 14:47:54
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 14:47:49
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 14:47:49
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 14:47:47
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 14:47:47
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T05:47:46.000000000Z.
+
+TimeCreated      : 13.8.2026. 14:47:47
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 14:18:16
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 14:18:15
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 13:43:20
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 13:35:55
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 13:26:16
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 13:10:04
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 12:58:48
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 12:58:43
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the stopped state.
+
+TimeCreated      : 13.8.2026. 12:58:43
+Id               : 7042
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+                   
+                    The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+                   
+                    Comment: None
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 9008 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 7836 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s UALSVC
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\taskhostw.exe with process id 4748 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 3008 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\System32\svchost.exe -k utcsvc -p
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 2620 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\system32\svchost.exe -k NetworkService -p
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 1872 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BITS
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\svchost.exe with process id 1204 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:58:40
+Id               : 225
+LevelDisplayName : Warning
+ProviderName     : Microsoft-Windows-Kernel-PnP
+Message          : The application \Device\HarddiskVolume3\Windows\System32\dllhost.exe with process id 684 stopped the removal or ejection for the device PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09.
+                   Process command line: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+                   List of affected devices:
+                   SCSI\Disk&Ven_BROADCOM&Prod_PRAID_CP600i\5&3b01e950&0&010000
+                   STORAGE\Volume\{5d1e0a35-9753-11f1-8400-806e6f6e6963}#0000000007500000
+                   
+
+TimeCreated      : 13.8.2026. 12:45:41
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 12:45:36
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the stopped state.
+
+TimeCreated      : 13.8.2026. 12:45:36
+Id               : 7042
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+                   
+                    The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+                   
+                    Comment: None
+
+TimeCreated      : 13.8.2026. 12:41:42
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 12:41:36
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 12:41:36
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 12:41:34
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 12:41:34
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T03:41:34.000000000Z.
+
+TimeCreated      : 13.8.2026. 12:41:34
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 12:38:15
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 12:38:15
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 12:41:38
+Id               : 6011
+LevelDisplayName : Information
+ProviderName     : EventLog
+Message          : The NetBIOS name and DNS host name of this machine have been changed from WIN-UAA55C5O66P to VPI-HV01.
+
+TimeCreated      : 13.8.2026. 12:38:13
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 12:36:08
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 12:36:06
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 12:30:21
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 12:30:18
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 12:23:14
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 12:18:22
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 12:18:21
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 21:17:20
+Id               : 4
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service stopped.
+
+TimeCreated      : 13.8.2026. 21:17:19
+Id               : 3
+LevelDisplayName : Information
+ProviderName     : Virtual Disk Service
+Message          : Service started.
+
+TimeCreated      : 13.8.2026. 21:16:58
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 21:16:58
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 21:16:56
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 21:16:56
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T12:16:55.000000000Z.
+
+TimeCreated      : 13.8.2026. 21:16:56
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 21:13:38
+Id               : 577
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The system has prepared for a system initiated reboot from Active.
+
+TimeCreated      : 13.8.2026. 21:13:37
+Id               : 109
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : The kernel power manager has initiated a shutdown transition.
+                   
+                   Action: Power Action Reboot 
+                   Event Code: 0x0 
+                   Reason: Kernel API
+
+TimeCreated      : 13.8.2026. 21:13:24
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The TCP/IP NetBIOS Helper service entered the running state.
+
+TimeCreated      : 13.8.2026. 21:12:57
+Id               : 172
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : Connectivity state in standby: Disconnected, Reason: NIC compliance
+
+TimeCreated      : 13.8.2026. 21:12:57
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 13.8.2026. 21:12:52
+Id               : 30
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : The firmware reported boot metrics.
+
+TimeCreated      : 13.8.2026. 21:12:52
+Id               : 238
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : EFI time zone bias: 2047. Daylight flags: 0. Firmware time: ‎2026‎-‎08‎-‎13T12:12:52.000000000Z.
+
+TimeCreated      : 13.8.2026. 21:12:52
+Id               : 247
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Boot
+Message          : Unable to load Pluton-Windows firmware. StatusCode: STATUS_SUCCESS, Reason: Failed to apply firmware.
+
+TimeCreated      : 13.8.2026. 21:13:17
+Id               : 6011
+LevelDisplayName : Information
+ProviderName     : EventLog
+Message          : The NetBIOS name and DNS host name of this machine have been changed from  to WIN-UAA55C5O66P.
+
+
+
+===== Application =====
+
+
+TimeCreated      : 1.9.2026. 17:02:48
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:48
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:44
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:40
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:20
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:20
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:52
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:52
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000126:SSL routines::unexpected eof while reading
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:54
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:54
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:45:56
+Id               : 0
+LevelDisplayName : Information
+ProviderName     : ServerView Server Control
+Message          : Service initialization completed
+
+TimeCreated      : 1.9.2026. 16:45:36
+Id               : 1033
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Windows Installer installed the product. Product Name: ServerView Agents x64 Edition. Product Version: 11.80.04. Product Language: 1033. Manufacturer: Fsas Technologies. Installation success or error status: 0.
+
+TimeCreated      : 1.9.2026. 16:45:36
+Id               : 11707
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Product: ServerView Agents x64 Edition -- Installation operation completed successfully.
+
+TimeCreated      : 1.9.2026. 16:45:34
+Id               : 1042
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Ending a Windows Installer transaction: C:\WINDOWS\Downloaded Installations\{A1E131E6-3E3C-4137-AC4C-79E58DF91807}\ServerViewAgents_x64.msi. Client Process Id: 10156.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 0
+LevelDisplayName : Information
+ProviderName     : ServerView Remote Connector
+Message          : Service initialization completed
+
+TimeCreated      : 1.9.2026. 16:44:47
+Id               : 1040
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Beginning a Windows Installer transaction: C:\WINDOWS\Downloaded Installations\{A1E131E6-3E3C-4137-AC4C-79E58DF91807}\ServerViewAgents_x64.msi. Client Process Id: 10156.
+
+TimeCreated      : 1.9.2026. 16:43:02
+Id               : 1033
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Windows Installer installed the product. Product Name: ServerView Agents x64 Edition. Product Version: 11.80.04. Product Language: 1033. Manufacturer: Fsas Technologies. Installation success or error status: 1602.
+
+TimeCreated      : 1.9.2026. 16:43:02
+Id               : 11708
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Product: ServerView Agents x64 Edition -- Installation operation failed.
+
+TimeCreated      : 31.8.2026. 17:31:16
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 25.8.2026. 3:31:22
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 24.8.2026. 17:49:34
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 24.8.2026. 17:48:39
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 21.8.2026. 14:22:25
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 21.8.2026. 14:21:32
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 20.8.2026. 22:03:28
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 20.8.2026. 18:40:21
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 14.8.2026. 15:34:54
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 14.8.2026. 15:34:54
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 18:03:06
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 18:03:06
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 15:07:08
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : Windows Error Reporting
+Message          : Fault bucket 1977042977890704050, type 5
+                   Event Name: MoAppHang
+                   Response: Not available
+                   Cab Id: 0
+                   
+                   Problem signature:
+                   P1: windows.immersivecontrolpanel_10.0.8.1000_neutral_neutral_cw5n1h2txyewy
+                   P2: praid:microsoft.windows.immersivecontrolpanel
+                   P3: 10.0.26100.33296
+                   P4: 84a37365
+                   P5: 4d8a
+                   P6: 2097152
+                   P7: 
+                   P8: 
+                   P9: 
+                   P10: 
+                   
+                   Attached files:
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c8df02de-b50b-49ae-b1f0-2e5e3e9fe743.tmp.WERInternalMetadata.xml
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.ab86bae5-5230-42cf-9108-f90ce0d99b19.tmp.csv
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6c18187b-2501-4908-9362-734657211cda.tmp.txt
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6add0856-0fba-4150-a933-c186350ecdda.tmp.xml
+                   
+                   These files may be available here:
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_windows.immersiv_23cb396ea35dd21e8df7a51684a6b227bb5246_fcc02445_96a69d96-737e-4599-8923-d78ebb0ebdc7
+                   
+                   Analysis symbol: 
+                   Rechecking for solution: 0
+                   Report Id: c7a9cce7-b4b4-4d03-b47e-866b81c1e1a5
+                   Report Status: 268435457
+                   Hashed bucket: 3a7b7c3a3a23a68ffb6fde1d12db1ab2
+                   Cab Guid: 0
+
+TimeCreated      : 13.8.2026. 15:05:00
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 15:05:00
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 15:05:00
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 14:48:55
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 13:06:58
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : Windows Error Reporting
+Message          : Fault bucket 1646527027143403862, type 5
+                   Event Name: MoAppHang
+                   Response: Not available
+                   Cab Id: 0
+                   
+                   Problem signature:
+                   P1: windows.immersivecontrolpanel_10.0.8.1000_neutral_neutral_cw5n1h2txyewy
+                   P2: praid:microsoft.windows.immersivecontrolpanel
+                   P3: 10.0.26100.1882
+                   P4: 8c91338a
+                   P5: 2e70
+                   P6: 2097152
+                   P7: 
+                   P8: 
+                   P9: 
+                   P10: 
+                   
+                   Attached files:
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d9fe71ab-228e-4cba-b18d-9ac085ecb029.tmp.WERInternalMetadata.xml
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d2ac7316-361c-4393-a6d5-df6ecfc67675.tmp.csv
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.369bcb1b-40d5-4579-907a-dee9b5557434.tmp.txt
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8fb27e49-8a80-4df2-bbd5-7a31de15fb6c.tmp.xml
+                   
+                   These files may be available here:
+                   \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_windows.immersiv_31598c80da3e99268682d7cba5fa95e5d522a81_fcc02445_e6aa3036-22a8-42e8-96f9-4d7903098a47
+                   
+                   Analysis symbol: 
+                   Rechecking for solution: 0
+                   Report Id: 5bcbd468-9ce6-4772-9058-6690ffb561bd
+                   Report Status: 268435456
+                   Hashed bucket: 140d6aef1a710cab96d9a39b85f66956
+                   Cab Guid: 0
+
+TimeCreated      : 13.8.2026. 12:41:55
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 12:41:55
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 12:19:19
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 12:19:19
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+TimeCreated      : 13.8.2026. 21:17:08
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Security-SPP
+Message          : The Software Protection service has completed licensing status check.
+                   Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+                   Licensing Status=
+                   1: 0d1bd880-2140-43c0-a2e1-506998451d6c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   2: 1b0d9de5-e09d-4257-8221-6970f082d4e9, 1, 0 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/bios/4.0 0x00000000 0)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+                   3: 66354793-4375-42ee-a9be-74e94d28bbf9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   4: 6bad0243-1c35-46b2-b8e6-7a853e37413f, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   5: 6ff6be9b-b2df-433f-85c1-37daf0eb6826, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   6: 7990b601-c924-4e58-b271-ab1d6d61d303, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   7: 7dc26449-db21-4e09-ba37-28f2958506a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   8: 82fcf64d-f9dd-4411-9c79-f2eed16d4eb8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   9: 84e331f6-4279-48c4-ab10-b75139181351, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   10: 919155fb-b42b-4371-9e4b-9c2e954507a6, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   11: 9a5d353c-2d22-4e58-b60e-9fcfed846922, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   12: caac9bf3-3daf-4da1-85b1-334e0fa7ed10, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   13: d81adfb0-9c6e-4274-8453-7dec8cce3fe9, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   14: ecc748b4-08de-4d57-abdb-6da44495a8f7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+                   
+                   
+
+
+
+

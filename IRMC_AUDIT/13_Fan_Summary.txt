@@ -1,0 +1,18 @@
+﻿
+ElementName DeviceID CurrentReading CurrentState Status HealthState OperationalStatus Quality
+----------- -------- -------------- ------------ ------ ----------- ----------------- -------
+FAN1 1 SYS  0-0                8000 Normal       OK               5 {2}                   100
+FAN1 2 SYS  0-1                7000 Normal       OK               5 {2}                    98
+FAN2 1 SYS  0-2                8200 Normal       OK               5 {2}                   100
+FAN2 2 SYS  0-3                7100 Normal       OK               5 {2}                   100
+FAN3 1 SYS  0-4                8000 Normal       OK               5 {2}                   100
+FAN3 2 SYS  0-5                7100 Normal       OK               5 {2}                   100
+FAN4 1 SYS  0-6                8000 Normal       OK               5 {2}                   100
+FAN4 2 SYS  0-7                7000 Normal       OK               5 {2}                   100
+FAN5 1 SYS  0-8                8000 Normal       OK               5 {2}                   100
+FAN5 2 SYS  0-9                7000 Normal       OK               5 {2}                   100
+FAN PSU1    0-a                2200 Normal       OK               5 {2}                   100
+FAN PSU2    0-b                2400 Normal       OK               5 {2}                   100
+
+
+

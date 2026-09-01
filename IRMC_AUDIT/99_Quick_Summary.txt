@@ -1,0 +1,58 @@
+﻿=== SERVER ===
+
+
+Manufacturer : FUJITSU
+Model        : PRIMERGY RX1330 M6
+Name         : VPI-HV01
+
+
+
+=== BIOS ===
+
+
+SMBIOSBIOSVersion : V5.0.0.32 R2.6.0 for D4133-A1x                    
+ReleaseDate       : 23.4.2026. 2:00:00
+SerialNumber      : EWCQ004772
+
+
+
+=== BASEBOARD ===
+
+
+Product      : D4133-A1
+Version      : S26361-D4133-A100 WGS01 GS03
+SerialNumber : SZ2427K00049
+
+
+
+=== RAID / STORAGE CONTROLLERS ===
+
+
+Name         : Microsoft Storage Spaces Controller
+Manufacturer : Microsoft
+PNPDeviceID  : ROOT\SPACEPORT\0000
+Status       : OK
+
+Name         : Microsoft VHD Loopback Controller
+Manufacturer : Microsoft
+PNPDeviceID  : {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+Status       : OK
+
+Name         : Broadcom MegaRAID SAS Adapter Aero
+Manufacturer : AVAGO TECH.
+PNPDeviceID  : PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+Status       : OK
+
+
+
+=== IMPORTANT PCI DEVICES ===
+
+Status Class       FriendlyName                                InstanceId                                                      
+------ -----       ------------                                ----------                                                      
+OK     Net         Intel(R) I210 Gigabit Network Connection    PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05A00 
+Error  Net         Intel(R) I210 Gigabit Network Connection #2 PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05B00 
+OK     Display     Microsoft Basic Display Adapter             PCI\VEN_1A03&DEV_2000&SUBSYS_12291734&REV_52\5&156258FF&0&0000E2
+OK     SCSIAdapter Broadcom MegaRAID SAS Adapter Aero          PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009   
+
+
+

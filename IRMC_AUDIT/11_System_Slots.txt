@@ -1,0 +1,9 @@
+﻿
+SlotDesignation Tag           Status CurrentUsage ConnectorPinout Shared SupportsHotPlug MaxDataWidth
+--------------- ---           ------ ------------ --------------- ------ --------------- ------------
+SLOT 01         System Slot 0 OK                4                  False           False            8
+SLOT 02         System Slot 1 OK                3                  False           False            7
+SLOT 03         System Slot 2 OK                3                  False           False            8
+
+
+

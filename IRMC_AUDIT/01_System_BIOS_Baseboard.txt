@@ -1,0 +1,61 @@
+﻿=== COMPUTER SYSTEM ===
+
+
+Manufacturer        : FUJITSU
+Model               : PRIMERGY RX1330 M6
+Name                : VPI-HV01
+SystemType          : x64-based PC
+TotalPhysicalMemory : 68281065472
+
+
+
+
+=== COMPUTER SYSTEM PRODUCT ===
+
+
+Vendor            : FUJITSU
+Name              : PRIMERGY RX1330 M6
+Version           : GS01
+IdentifyingNumber : EWCQ004772
+UUID              : 61A840D6-BC04-482D-8218-1ECA8288D81E
+
+
+
+
+=== BIOS ===
+
+
+Manufacturer       : FUJITSU // American Megatrends International, LLC.
+SMBIOSBIOSVersion  : V5.0.0.32 R2.6.0 for D4133-A1x                    
+Version            : FUJ    - 20600000
+ReleaseDate        : 23.4.2026. 2:00:00
+SerialNumber       : EWCQ004772
+SMBIOSMajorVersion : 3
+SMBIOSMinorVersion : 6
+
+
+
+
+=== BASEBOARD ===
+
+
+Manufacturer : FUJITSU
+Product      : D4133-A1
+Version      : S26361-D4133-A100 WGS01 GS03
+SerialNumber : SZ2427K00049
+
+
+
+
+=== CHASSIS ===
+
+
+Manufacturer   : FUJITSU
+SerialNumber   : EWCQ004772
+SMBIOSAssetTag : System Asset Tag                        
+ChassisTypes   : {23}
+Version        : RX1330M6R8
+
+
+
+

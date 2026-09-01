@@ -1,0 +1,174 @@
+﻿=== PCI DEVICES (PnP) ===
+
+Status Class                     FriendlyName                                                    InstanceId                                                      
+------ -----                     ------------                                                    ----------                                                      
+Error                            PCI Device                                                      PCI\VEN_8086&DEV_7A4C&SUBSYS_19EA10CF&REV_11\3&11583659&0&A8    
+Error                            PCI Device                                                      PCI\VEN_8086&DEV_7A4D&SUBSYS_19EA10CF&REV_11\3&11583659&0&A9    
+OK     Display                   Microsoft Basic Display Adapter                                 PCI\VEN_1A03&DEV_2000&SUBSYS_12291734&REV_52\5&156258FF&0&0000E2
+OK     HDC                       Standard SATA AHCI Controller                                   PCI\VEN_8086&DEV_7A62&SUBSYS_19EA10CF&REV_11\3&11583659&0&B8    
+OK     Net                       Intel(R) I210 Gigabit Network Connection                        PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05A00 
+Error  Net                       Intel(R) I210 Gigabit Network Connection #2                     PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05B00 
+OK     SCSIAdapter               Broadcom MegaRAID SAS Adapter Aero                              PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009   
+OK     System                     CSME: HECI #1 - 7A68                                           PCI\VEN_8086&DEV_7A68&SUBSYS_19EA10CF&REV_11\3&11583659&0&B0    
+OK     System                     CSME: HECI #2 - 7A69                                           PCI\VEN_8086&DEV_7A69&SUBSYS_19EA10CF&REV_11\3&11583659&0&B1    
+OK     System                     CSME: HECI #3 - 7A6C                                           PCI\VEN_8086&DEV_7A6C&SUBSYS_19EA10CF&REV_11\3&11583659&0&B4    
+OK     System                    Intel(R) LPC Controller/eSPI Controller - 7A13                  PCI\VEN_8086&DEV_7A13&SUBSYS_19EA10CF&REV_11\3&11583659&0&F8    
+OK     System                    Intel(R) PCI Express Root Port #1 - 7A38                        PCI\VEN_8086&DEV_7A38&SUBSYS_19EA10CF&REV_11\3&11583659&0&E0    
+OK     System                    Intel(R) PCI Express Root Port #2 - 7A39                        PCI\VEN_8086&DEV_7A39&SUBSYS_19EA10CF&REV_11\3&11583659&0&E1    
+OK     System                    Intel(R) PCI Express Root Port #3 - 7A3A                        PCI\VEN_8086&DEV_7A3A&SUBSYS_19EA10CF&REV_11\3&11583659&0&E2    
+OK     System                    Intel(R) PCIe RC 010 G5 - A70D                                  PCI\VEN_8086&DEV_A70D&SUBSYS_19EA10CF&REV_01\3&11583659&0&08    
+OK     System                    Intel(R) PCIe RC 011 G5 - A72D                                  PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09    
+OK     System                    Intel(R) Shared SRAM - 7A27                                     PCI\VEN_8086&DEV_7A27&SUBSYS_19EA10CF&REV_11\3&11583659&0&A2    
+OK     System                    Intel(R) SMBus - 7A23                                           PCI\VEN_8086&DEV_7A23&SUBSYS_19EA10CF&REV_11\3&11583659&0&FC    
+OK     System                    Intel(R) SPI (flash) Controller - 7A24                          PCI\VEN_8086&DEV_7A24&SUBSYS_19EA10CF&REV_11\3&11583659&0&FD    
+OK     System                    PCI Express to PCI/PCI-X Bridge                                 PCI\VEN_1A03&DEV_1150&SUBSYS_11501A03&REV_06\4&3B1F70B9&0&00E2  
+OK     System                    PCI standard host CPU bridge                                    PCI\VEN_8086&DEV_A711&SUBSYS_19EA10CF&REV_01\3&11583659&0&00    
+OK     System management devices ServerView iRMC HTI Device                                      PCI\VEN_1A03&DEV_2402&SUBSYS_24021A03&REV_00\5&156258FF&0&0800E2
+OK     USB                       Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft) PCI\VEN_8086&DEV_7A60&SUBSYS_19EA10CF&REV_11\3&11583659&0&A0    
+
+
+
+=== PCI DEVICES (Win32_PnPEntity) ===
+
+
+Name         : PCI Device
+Manufacturer : 
+PNPClass     : 
+DeviceID     : PCI\VEN_8086&DEV_7A4C&SUBSYS_19EA10CF&REV_11\3&11583659&0&A8
+PNPDeviceID  : PCI\VEN_8086&DEV_7A4C&SUBSYS_19EA10CF&REV_11\3&11583659&0&A8
+
+Name         : PCI Device
+Manufacturer : 
+PNPClass     : 
+DeviceID     : PCI\VEN_8086&DEV_7A4D&SUBSYS_19EA10CF&REV_11\3&11583659&0&A9
+PNPDeviceID  : PCI\VEN_8086&DEV_7A4D&SUBSYS_19EA10CF&REV_11\3&11583659&0&A9
+
+Name         : Microsoft Basic Display Adapter
+Manufacturer : (Standard display types)
+PNPClass     : Display
+DeviceID     : PCI\VEN_1A03&DEV_2000&SUBSYS_12291734&REV_52\5&156258FF&0&0000E2
+PNPDeviceID  : PCI\VEN_1A03&DEV_2000&SUBSYS_12291734&REV_52\5&156258FF&0&0000E2
+
+Name         : Standard SATA AHCI Controller
+Manufacturer : Standard SATA AHCI Controller
+PNPClass     : HDC
+DeviceID     : PCI\VEN_8086&DEV_7A62&SUBSYS_19EA10CF&REV_11\3&11583659&0&B8
+PNPDeviceID  : PCI\VEN_8086&DEV_7A62&SUBSYS_19EA10CF&REV_11\3&11583659&0&B8
+
+Name         : Intel(R) I210 Gigabit Network Connection
+Manufacturer : Intel
+PNPClass     : Net
+DeviceID     : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05A00
+PNPDeviceID  : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05A00
+
+Name         : Intel(R) I210 Gigabit Network Connection #2
+Manufacturer : Intel
+PNPClass     : Net
+DeviceID     : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05B00
+PNPDeviceID  : PCI\VEN_8086&DEV_1533&SUBSYS_19EA10CF&REV_03\34FE9EFFFFCAF05B00
+
+Name         : Broadcom MegaRAID SAS Adapter Aero
+Manufacturer : AVAGO TECH.
+PNPClass     : SCSIAdapter
+DeviceID     : PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+PNPDeviceID  : PCI\VEN_1000&DEV_10E6&SUBSYS_19D210CF&REV_00\4&17564D6&0&0009
+
+Name         :  CSME: HECI #1 - 7A68
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A68&SUBSYS_19EA10CF&REV_11\3&11583659&0&B0
+PNPDeviceID  : PCI\VEN_8086&DEV_7A68&SUBSYS_19EA10CF&REV_11\3&11583659&0&B0
+
+Name         :  CSME: HECI #2 - 7A69
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A69&SUBSYS_19EA10CF&REV_11\3&11583659&0&B1
+PNPDeviceID  : PCI\VEN_8086&DEV_7A69&SUBSYS_19EA10CF&REV_11\3&11583659&0&B1
+
+Name         :  CSME: HECI #3 - 7A6C
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A6C&SUBSYS_19EA10CF&REV_11\3&11583659&0&B4
+PNPDeviceID  : PCI\VEN_8086&DEV_7A6C&SUBSYS_19EA10CF&REV_11\3&11583659&0&B4
+
+Name         : Intel(R) LPC Controller/eSPI Controller - 7A13
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A13&SUBSYS_19EA10CF&REV_11\3&11583659&0&F8
+PNPDeviceID  : PCI\VEN_8086&DEV_7A13&SUBSYS_19EA10CF&REV_11\3&11583659&0&F8
+
+Name         : Intel(R) PCI Express Root Port #1 - 7A38
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A38&SUBSYS_19EA10CF&REV_11\3&11583659&0&E0
+PNPDeviceID  : PCI\VEN_8086&DEV_7A38&SUBSYS_19EA10CF&REV_11\3&11583659&0&E0
+
+Name         : Intel(R) PCI Express Root Port #2 - 7A39
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A39&SUBSYS_19EA10CF&REV_11\3&11583659&0&E1
+PNPDeviceID  : PCI\VEN_8086&DEV_7A39&SUBSYS_19EA10CF&REV_11\3&11583659&0&E1
+
+Name         : Intel(R) PCI Express Root Port #3 - 7A3A
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A3A&SUBSYS_19EA10CF&REV_11\3&11583659&0&E2
+PNPDeviceID  : PCI\VEN_8086&DEV_7A3A&SUBSYS_19EA10CF&REV_11\3&11583659&0&E2
+
+Name         : Intel(R) PCIe RC 010 G5 - A70D
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_A70D&SUBSYS_19EA10CF&REV_01\3&11583659&0&08
+PNPDeviceID  : PCI\VEN_8086&DEV_A70D&SUBSYS_19EA10CF&REV_01\3&11583659&0&08
+
+Name         : Intel(R) PCIe RC 011 G5 - A72D
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09
+PNPDeviceID  : PCI\VEN_8086&DEV_A72D&SUBSYS_19EA10CF&REV_01\3&11583659&0&09
+
+Name         : Intel(R) Shared SRAM - 7A27
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A27&SUBSYS_19EA10CF&REV_11\3&11583659&0&A2
+PNPDeviceID  : PCI\VEN_8086&DEV_7A27&SUBSYS_19EA10CF&REV_11\3&11583659&0&A2
+
+Name         : Intel(R) SMBus - 7A23
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A23&SUBSYS_19EA10CF&REV_11\3&11583659&0&FC
+PNPDeviceID  : PCI\VEN_8086&DEV_7A23&SUBSYS_19EA10CF&REV_11\3&11583659&0&FC
+
+Name         : Intel(R) SPI (flash) Controller - 7A24
+Manufacturer : INTEL
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_7A24&SUBSYS_19EA10CF&REV_11\3&11583659&0&FD
+PNPDeviceID  : PCI\VEN_8086&DEV_7A24&SUBSYS_19EA10CF&REV_11\3&11583659&0&FD
+
+Name         : PCI Express to PCI/PCI-X Bridge
+Manufacturer : (Standard system devices)
+PNPClass     : System
+DeviceID     : PCI\VEN_1A03&DEV_1150&SUBSYS_11501A03&REV_06\4&3B1F70B9&0&00E2
+PNPDeviceID  : PCI\VEN_1A03&DEV_1150&SUBSYS_11501A03&REV_06\4&3B1F70B9&0&00E2
+
+Name         : PCI standard host CPU bridge
+Manufacturer : (Standard system devices)
+PNPClass     : System
+DeviceID     : PCI\VEN_8086&DEV_A711&SUBSYS_19EA10CF&REV_01\3&11583659&0&00
+PNPDeviceID  : PCI\VEN_8086&DEV_A711&SUBSYS_19EA10CF&REV_01\3&11583659&0&00
+
+Name         : ServerView iRMC HTI Device
+Manufacturer : Fsas Technologies
+PNPClass     : System management devices
+DeviceID     : PCI\VEN_1A03&DEV_2402&SUBSYS_24021A03&REV_00\5&156258FF&0&0800E2
+PNPDeviceID  : PCI\VEN_1A03&DEV_2402&SUBSYS_24021A03&REV_00\5&156258FF&0&0800E2
+
+Name         : Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+Manufacturer : Generic USB xHCI Host Controller
+PNPClass     : USB
+DeviceID     : PCI\VEN_8086&DEV_7A60&SUBSYS_19EA10CF&REV_11\3&11583659&0&A0
+PNPDeviceID  : PCI\VEN_8086&DEV_7A60&SUBSYS_19EA10CF&REV_11\3&11583659&0&A0
+
+
+
+

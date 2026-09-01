@@ -1,0 +1,239 @@
+﻿===== HKLM:\SOFTWARE\Fujitsu =====
+
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\CIM Provider
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\CIM Provider\Setup
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Maintenance Tools
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Maintenance Tools\Setup
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\PrimeCollect
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\PrimeCollect\Setup
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\Config
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\DATA
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_ALERT
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_DEBUG
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_DEF
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_DEVICE
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_DMI
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_DRVMON
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_EMC
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_EVENT
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_GABI
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_HTI
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_IDENT
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_IDPROM
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_IPMI
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_KCS
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_MSGTXT
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_NETIF
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_OIDMAP
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_PFA
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_PNI
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_PRCOLL
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_SBBMON
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_SCRIPT
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_SHUTDOWN
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_SMBUS
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_STATUS
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_SVRAID
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_THRESH
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_UPDATE
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_VINFO
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\EM_VME
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\Loader
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\Loader\Detected
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\Loader\ModuleStatus
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\Server Control\Setup
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\#LockList
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\#Setup
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\1398_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\1398_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\1398_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\1398_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\BIOS_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\BIOS_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\BIOS_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\BIOS_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HDBUS_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HDBUS_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HDBUS_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HDBUS_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HPINT_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HPINT_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HPINT_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\HPINT_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\INV_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\INV_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\INV_MIB\File
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\INV_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\INV_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\NT_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\NT_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\NT_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\NT_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\OS_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\OS_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\OS_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\OS_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SC2_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SC2_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SC2_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SC2_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SEC_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SEC_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SEC_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SEC_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\STATUS_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\STATUS_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\STATUS_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\STATUS_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SVUPDATE_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SVUPDATE_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SVUPDATE_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\SVUPDATE_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\THRESHOLD_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\THRESHOLD_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\THRESHOLD_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\THRESHOLD_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\TRAP_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\TRAP_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\TRAP_MIB\File
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\TRAP_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\TRAP_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VME_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VME_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VME_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VME_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VV_MIB
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VV_MIB\CurrentVersion
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VV_MIB\File
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VV_MIB\Parameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\VV_MIB\Parameters\VolatileParameters
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Fujitsu\ServerView Suite\SNMP Agents\#Status
+
+
+
+===== HKLM:\SOFTWARE\WOW6432Node\Fujitsu =====
+
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Fujitsu\ServerView Suite
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Fujitsu\ServerView Suite\Remote Connector
+
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Fujitsu\ServerView Suite\Remote Connector\Setup
+
+
+
+

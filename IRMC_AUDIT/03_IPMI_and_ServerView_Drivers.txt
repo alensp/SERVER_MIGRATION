@@ -1,0 +1,51 @@
+﻿=== PNP DEVICES ===
+
+Status Class                     FriendlyName                            InstanceId                                                                
+------ -----                     ------------                            ----------                                                                
+OK     Computer                  FUJITSU PRIMERGY RX1330 M6              SWD\COMPUTER\MFG_FUJITSU&FAM_SERVER&PROD_PRIMERGY_RX1330_M6&SKU_PYR1336RGN
+OK     System management devices ServerView iRMC HTI Device              PCI\VEN_1A03&DEV_2402&SUBSYS_24021A03&REV_00\5&156258FF&0&0800E2          
+OK     System                    Microsoft Generic IPMI Compliant Device ACPI\IPI0001\0                                                            
+OK     System management devices ServerView BIOS access device           ROOT\SYSTEM_MANAGEMENT_DEVICES\0000                                       
+OK     System management devices ServerView Bus I/O device               ROOT\SYSTEM_MANAGEMENT_DEVICES\0001                                       
+OK     System management devices ServerView SMBUS device                 ROOT\SYSTEM_MANAGEMENT_DEVICES\0002                                       
+OK     System                    Microsoft System Management BIOS Driver ROOT\MSSMBIOS\0000                                                        
+OK     System                    Fujitsu FUJ0430 Device                  ACPI\FUJ0430\2&DABA3FF&0                                                  
+
+
+
+=== SYSTEM DRIVERS ===
+
+
+Name        : AcpiPmi
+DisplayName : ACPI Power Meter Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\DriverStore\FileRepository\acpipmi.inf_amd64_3ced06eb61dcc792\acpipmi.sys
+
+Name        : IPMIDRV
+DisplayName : IPMIDRV
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\IPMIDrv.sys
+
+Name        : GabiAcpi
+DisplayName : FUJ0420 Service
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\GabiAcpi.sys
+
+Name        : SvHTI
+DisplayName : ServerView HTI Device Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\SvHTI.sys
+
+Name        : ScSBB3
+DisplayName : ServerView ScSBB3 Device Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\ScSBB3.sys
+
+
+
+
