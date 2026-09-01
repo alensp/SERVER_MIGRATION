@@ -1,0 +1,72 @@
+﻿
+
+__NounName                 : Process
+Name                       : certsrv
+Handles                    : 424
+VM                         : 1450975232
+WS                         : 23166976
+PM                         : 16068608
+NPM                        : 29216
+Path                       : C:\Windows\system32\certsrv.exe
+Company                    : Microsoft Corporation
+CPU                        : 3,359375
+FileVersion                : 6.3.9600.20759 (winblue_ltsb.221201-1700)
+ProductVersion             : 6.3.9600.20759
+Description                : Microsoft® Certificate Service
+Product                    : Microsoft® Windows® Operating System
+Id                         : 1808
+PriorityClass              : Normal
+HandleCount                : 424
+WorkingSet                 : 23166976
+PagedMemorySize            : 16068608
+PrivateMemorySize          : 16068608
+VirtualMemorySize          : 1450975232
+TotalProcessorTime         : 00:00:03.3593750
+BasePriority               : 8
+ExitCode                   : 
+HasExited                  : False
+ExitTime                   : 
+Handle                     : 2080
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+MachineName                : .
+MainWindowHandle           : 0
+MainWindowTitle            : 
+MainModule                 : System.Diagnostics.ProcessModule (certsrv.exe)
+MaxWorkingSet              : 1413120
+MinWorkingSet              : 204800
+Modules                    : {System.Diagnostics.ProcessModule (certsrv.exe), System.Diagnostics.ProcessModule (ntdll.dll), System.Diagnostics.ProcessModule (KERNEL32.DLL), System.Diagnostics.ProcessModule (KERNELBASE.dll)...}
+NonpagedSystemMemorySize   : 29216
+NonpagedSystemMemorySize64 : 29216
+PagedMemorySize64          : 16068608
+PagedSystemMemorySize      : 192840
+PagedSystemMemorySize64    : 192840
+PeakPagedMemorySize        : 16429056
+PeakPagedMemorySize64      : 16429056
+PeakWorkingSet             : 23527424
+PeakWorkingSet64           : 23527424
+PeakVirtualMemorySize      : 1458315264
+PeakVirtualMemorySize64    : 2200481570816
+PriorityBoostEnabled       : True
+PrivateMemorySize64        : 16068608
+PrivilegedProcessorTime    : 00:00:00.6093750
+ProcessName                : certsrv
+ProcessorAffinity          : 4095
+Responding                 : True
+SessionId                  : 0
+StartInfo                  : System.Diagnostics.ProcessStartInfo
+StartTime                  : 25.08.2026. 03:31:45
+SynchronizingObject        : 
+Threads                    : {1832, 1708, 1936, 1944...}
+UserProcessorTime          : 00:00:02.7500000
+VirtualMemorySize64        : 2200474230784
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 23166976
+Site                       : 
+Container                  : 
+
+
+
+

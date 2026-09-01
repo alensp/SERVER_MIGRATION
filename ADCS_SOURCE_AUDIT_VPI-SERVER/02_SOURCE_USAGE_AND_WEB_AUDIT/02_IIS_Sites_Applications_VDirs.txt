@@ -1,0 +1,156 @@
+﻿=== SITES ===
+
+
+name         : Default Web Site
+id           : 1
+state        : Started
+physicalPath : C:\Program Files\Windows Server\Bin\WebApps\Site
+bindings     : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name         : WSS Certificate Web Service
+id           : 2
+state        : Started
+physicalPath : C:\Program Files\Windows Server\Bin\WebApps\CertWebService
+bindings     : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name         : Mac Web Service
+id           : 3
+state        : Started
+physicalPath : C:\Program Files\Windows Server\Bin\WebApps\MacWebService
+bindings     : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+
+=== APPLICATIONS ===
+path             : /Rpc
+applicationPool  : RootApp
+PhysicalPath     : %windir%\System32\RpcProxy
+enabledProtocols : http
+
+path             : /RpcWithCert
+applicationPool  : RootApp
+PhysicalPath     : %windir%\System32\RpcProxy
+enabledProtocols : http
+
+path             : /vpi-VPI-SERVER-CA-1_CES_Kerberos
+applicationPool  : WSEnrollmentServer
+PhysicalPath     : C:\Windows\SystemData\CES\vpi-VPI-SERVER-CA-1_CES_Kerberos
+enabledProtocols : http
+
+path             : /ADPolicyProvider_CEP_Kerberos
+applicationPool  : WSEnrollmentPolicyServer
+PhysicalPath     : C:\Windows\SystemData\CEP\ADPolicyProvider_CEP_Kerberos
+enabledProtocols : http
+
+path             : /CertSrv
+applicationPool  : DefaultAppPool
+PhysicalPath     : C:\Windows\system32\CertSrv\en-US
+enabledProtocols : http
+
+path             : /Remote
+applicationPool  : RemoteAppPool
+PhysicalPath     : C:\Program Files\Windows Server\Bin\WebApps\RemoteAccess
+enabledProtocols : http
+
+path             : /home
+applicationPool  : ConnectivityAppPool
+PhysicalPath     : C:\Program Files\Windows Server\Bin\WebApps\CloudTest
+enabledProtocols : http
+
+path             : /services
+applicationPool  : WebApiService
+PhysicalPath     : C:\Program Files\Windows Server\Bin\WebApps\WebApi
+enabledProtocols : http
+
+path             : /Connect
+applicationPool  : Client_App
+PhysicalPath     : C:\Program Files\Windows Server\Bin\WebApps\Client
+enabledProtocols : http
+
+
+=== VIRTUAL DIRECTORIES ===
+path         : /Printers
+physicalPath : %windir%\web\printers
+
+path         : /CertEnroll
+physicalPath : C:\Windows\system32\CertSrv\CertEnroll
+
+path         : /download
+physicalPath : C:\ProgramData\Microsoft\Windows Server\Data\addins\msi
+
+
+=== APP POOLS ===
+name                  : .NET v4.5
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : .NET v4.5 Classic
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Classic
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : CertWebService_App
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : Client_App
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : ConnectivityAppPool
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : DefaultAppPool
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : MacWebService_App
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : RemoteAppPool
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : RootApp
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : WebApiService
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : WSEnrollmentPolicyServer
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+name                  : WSEnrollmentServer
+state                 : Started
+managedRuntimeVersion : v4.0
+managedPipelineMode   : Integrated
+processModel          : Microsoft.IIs.PowerShell.Framework.ConfigurationElement
+
+
+
+

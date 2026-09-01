@@ -1,0 +1,33 @@
+﻿HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CRLPublicationURLs:
+
+  CRLPublicationURLs REG_MULTI_SZ =
+    0: 65:C:\Windows\system32\CertSrv\CertEnroll\%3%8%9.crl
+    CSURL_SERVERPUBLISH -- 1
+    CSURL_SERVERPUBLISHDELTA -- 40 (64)
+
+    1: 8:ldap:///CN=%7%8,CN=%2,CN=CDP,CN=Public Key Services,CN=Services,%6%10
+    CSURL_ADDTOCRLCDP -- 8
+
+    2: 6:http://%2/CertEnroll/%3%8%9.crl
+    CSURL_ADDTOCERTCDP -- 2
+    CSURL_ADDTOFRESHESTCRL -- 4
+
+    3: 0:file://%2/CertEnroll/%3%8%9.crl
+
+CertUtil: -getreg command completed successfully.
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CACertPublicationURLs:
+
+  CACertPublicationURLs REG_MULTI_SZ =
+    0: 1:C:\Windows\system32\CertSrv\CertEnroll\%1_%3%4.crt
+    CSURL_SERVERPUBLISH -- 1
+
+    1: 3:ldap:///CN=%7,CN=AIA,CN=Public Key Services,CN=Services,%6%11
+    CSURL_SERVERPUBLISH -- 1
+    CSURL_ADDTOCERTCDP -- 2
+
+    2: 0:http://%1/CertEnroll/%1_%3%4.crt
+
+    3: 0:file://%1/CertEnroll/%1_%3%4.crt
+
+CertUtil: -getreg command completed successfully.
+

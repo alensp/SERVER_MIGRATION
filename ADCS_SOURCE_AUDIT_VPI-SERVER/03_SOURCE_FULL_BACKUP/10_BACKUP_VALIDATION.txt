@@ -1,0 +1,19 @@
+﻿ADCS BACKUP VALIDATION
+======================
+Generated: 09/01/2026 18:18:55
+
+Database backup files: 3
+  C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\Database\DataBase\certbkxp.dat  362 bytes
+  C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\Database\DataBase\edb00134.log  1048576 bytes
+  C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\Database\DataBase\vpi-VPI-SERVER-CA-1.edb  4206592 bytes
+
+Private-key backup files: 1
+  C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\PrivateKey\vpi-VPI-SERVER-CA-1.p12  2581 bytes
+
+Database backup present: True
+PFX/P12 key backup present: True
+Password file present: True
+CertSvc status after backup: Running
+
+LOCAL FILE VALIDATION: PASS
+NOTE: A true restore test on the destination is still required before any cutover.

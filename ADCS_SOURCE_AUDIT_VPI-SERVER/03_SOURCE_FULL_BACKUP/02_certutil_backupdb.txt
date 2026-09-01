@@ -1,0 +1,13 @@
+﻿Full database backup for VPI-SERVER\vpi-VPI-SERVER-CA-1.
+
+Backing up Database files: 100%
+
+Backing up Log files: 0%
+Backing up Log files: 100%
+
+Truncating Logs: 0%
+Truncating Logs: 100%
+Backed up database to C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\Database.
+Database logs successfully truncated.
+CertUtil: -backupDB command completed successfully.
+

@@ -1,0 +1,180 @@
+﻿
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration
+    Active    REG_SZ    vpi-VPI-SERVER-CA-1
+    DBDirectory    REG_SZ    C:\Windows\system32\CertLog
+    DBLogDirectory    REG_SZ    C:\Windows\system32\CertLog
+    DBTempDirectory    REG_SZ    C:\Windows\system32\CertLog
+    DBSystemDirectory    REG_SZ    C:\Windows\system32\CertLog
+    DBSessionCount    REG_DWORD    0x64
+    LDAPFlags    REG_DWORD    0x0
+    DBFlags    REG_DWORD    0xb0
+    Version    REG_DWORD    0x60001
+    SetupStatus    REG_DWORD    0x6003
+    WebClientCAMachine    REG_SZ    
+    WebClientCAName    REG_SZ    
+    WebClientCAType    REG_DWORD    0x5
+    debug    REG_DWORD    0xffffffe3
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1
+    DSConfigDN    REG_SZ    CN=Configuration,DC=vpi,DC=local
+    DSDomainDN    REG_SZ    DC=vpi,DC=local
+    ViewAgeMinutes    REG_DWORD    0x10
+    ViewIdleMinutes    REG_DWORD    0x8
+    CAType    REG_DWORD    0x0
+    UseDS    REG_DWORD    0x1
+    ForceTeletex    REG_DWORD    0x12
+    SignedAttributes    REG_MULTI_SZ    RequesterName
+    EKUOIDsForPublishExpiredCertInCRL    REG_MULTI_SZ    1.3.6.1.5.5.7.3.3\01.3.6.1.4.1.311.61.1.1
+    CommonName    REG_SZ    vpi-VPI-SERVER-CA-1
+    Enabled    REG_DWORD    0x1
+    PolicyFlags    REG_DWORD    0x0
+    CertEnrollCompatible    REG_DWORD    0x0
+    CRLEditFlags    REG_DWORD    0x100
+    CRLFlags    REG_DWORD    0x2
+    InterfaceFlags    REG_DWORD    0x641
+    EnforceX500NameLengths    REG_DWORD    0x1
+    SubjectTemplate    REG_MULTI_SZ    EMail\0CommonName\0OrganizationalUnit\0Organization\0Locality\0State\0DomainComponent\0Country
+    ClockSkewMinutes    REG_DWORD    0x5a0
+    LogLevel    REG_DWORD    0x3
+    HighSerial    REG_DWORD    0x71
+    CAServerName    REG_SZ    VPI-Server.vpi.local
+    ValidityPeriod    REG_SZ    Years
+    ValidityPeriodUnits    REG_DWORD    0x1e
+    KRACertHash    REG_MULTI_SZ    
+    KRACertCount    REG_DWORD    0x0
+    KRAFlags    REG_DWORD    0x0
+    CRLPublicationURLs    REG_MULTI_SZ    65:C:\Windows\system32\CertSrv\CertEnroll\%3%8%9.crl\08:ldap:///CN=%7%8,CN=%2,CN=CDP,CN=Public Key Services,CN=Services,%6%10\06:http://%2/CertEnroll/%3%8%9.crl\00:file://%2/CertEnroll/%3%8%9.crl
+    CRLPeriod    REG_SZ    Weeks
+    CRLPeriodUnits    REG_DWORD    0x1
+    CRLOverlapPeriod    REG_SZ    Hours
+    CRLOverlapUnits    REG_DWORD    0x0
+    CRLDeltaPeriod    REG_SZ    Days
+    CRLDeltaPeriodUnits    REG_DWORD    0x1
+    CRLDeltaOverlapPeriod    REG_SZ    Minutes
+    CRLDeltaOverlapUnits    REG_DWORD    0x0
+    CAXchgValidityPeriod    REG_SZ    Weeks
+    CAXchgValidityPeriodUnits    REG_DWORD    0x1
+    CAXchgOverlapPeriod    REG_SZ    Days
+    CAXchgOverlapPeriodUnits    REG_DWORD    0x1
+    MaxIncomingMessageSize    REG_DWORD    0x10000
+    MaxIncomingAllocSize    REG_DWORD    0x10000
+    CACertPublicationURLs    REG_MULTI_SZ    1:C:\Windows\system32\CertSrv\CertEnroll\%1_%3%4.crt\03:ldap:///CN=%7,CN=AIA,CN=Public Key Services,CN=Services,%6%11\00:http://%1/CertEnroll/%1_%3%4.crt\00:file://%1/CertEnroll/%1_%3%4.crt
+    CACertHash    REG_MULTI_SZ    23 9e f8 38 5c 60 ca c3 9a 68 01 f6 20 57 8d 0c c6 b5 05 a6
+    Security    REG_BINARY    0100148420010000300100001400000044000000020030000200000002C01400FFFF000001010000000000010000000002C01400FFFF00000101000000000005070000000200DC000700000000031800010000000102000000000005200000002002000000031800020000000102000000000005200000002002000000032400010000000105000000000005150000003DA968C1430CC10DC7F9DC330002000000032400020000000105000000000005150000003DA968C1430CC10DC7F9DC330002000000032400010000000105000000000005150000003DA968C1430CC10DC7F9DC330702000000032400020000000105000000000005150000003DA968C1430CC10DC7F9DC3307020000000314000002000001010000000000050B0000000102000000000005200000002002000001020000000000052000000020020000
+    SetupStatus    REG_DWORD    0x3
+    CRLNextPublish    REG_BINARY    3834AAE7A53ADD01
+    CRLDeltaNextPublish    REG_BINARY    6D391EEAA53ADD01
+    debug    REG_DWORD    0xffffffe3
+    CAXchgCertHash    REG_MULTI_SZ    a2 14 b7 20 56 47 97 4b ec e6 51 fd ee 89 3e c9 11 45 c1 8c
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CSP
+    ProviderType    REG_DWORD    0x0
+    Provider    REG_SZ    Microsoft Software Key Storage Provider
+    HashAlgorithm    REG_DWORD    0xffffffff
+    CNGPublicKeyAlgorithm    REG_SZ    RSA
+    CNGHashAlgorithm    REG_SZ    SHA256
+    MachineKeyset    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\EncryptionCSP
+    ProviderType    REG_DWORD    0x0
+    Provider    REG_SZ    Microsoft Software Key Storage Provider
+    EncryptionAlgorithm    REG_DWORD    0x6603
+    CNGPublicKeyAlgorithm    REG_SZ    RSA
+    CNGEncryptionAlgorithm    REG_SZ    3DES
+    MachineKeyset    REG_DWORD    0x1
+    KeySize    REG_DWORD    0x800
+    SymmetricKeySize    REG_DWORD    0xa8
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules
+    Active    REG_MULTI_SZ    CertificateAuthority_MicrosoftDefault.Exit
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit
+    PublishCertFlags    REG_DWORD    0x2
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP
+    EventFilter    REG_DWORD    0x0
+    SMTPServer    REG_SZ    
+    SMTPAuthenticate    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\CRLIssued
+    BodyFormat    REG_MULTI_SZ    CRL(s) issued
+    BodyArg    REG_MULTI_SZ    
+    TitleFormat    REG_SZ    CRL(s) issued by %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Shutdown
+    BodyFormat    REG_MULTI_SZ    Active Directory Certificate Services shutdown
+    BodyArg    REG_MULTI_SZ    
+    TitleFormat    REG_SZ    Active Directory Certificate Services shutdown on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Startup
+    BodyFormat    REG_MULTI_SZ    Active Directory Certificate Services startup
+    BodyArg    REG_MULTI_SZ    
+    TitleFormat    REG_SZ    Active Directory Certificate Services startup on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates
+    Active    REG_MULTI_SZ    Default
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Denied
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0Requester Name: %2\0 \0Request Submission Date (GMT): %3\0 \0Subject: %4\0 \0Request Disposition Message: %5\0 \0Request Disposition Message: %6
+    BodyArg    REG_MULTI_SZ    Request.RequestID\0Request.RequesterName\0Request.SubmittedWhen.GMT\0Request.DistinguishedName\0Request.DispositionMessage\0Request.StatusCode
+    TitleFormat    REG_SZ    Certificate request denied by %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Imported
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0Serial Number: %2\0 \0Certificate Effective Date (GMT): %3\0 \0Certificate Expiration Date (GMT): %4\0 \0Certificate Hash: %5\0 
+    BodyArg    REG_MULTI_SZ    RequestID\0SerialNumber\0NotBefore.GMT\0NotAfter.GMT\0CertificateHash
+    TitleFormat    REG_SZ    Certificate imported by %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Issued
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0User: %2\0 \0Requester Name: %3\0 \0Serial Number: %4\0 \0Certificate Effective Date (GMT): %5\0 \0Certificate Expiration Date (GMT): %6\0 \0Subject: %7\0 \0Certificate Template: %8\0 \0Certificate Hash: %9\0 \0Request Disposition Message: %10
+    BodyArg    REG_MULTI_SZ    RequestID\0upn\0Request.RequesterName\0SerialNumber\0NotBefore.GMT\0NotAfter.GMT\0DistinguishedName\0CertificateTemplate\0CertificateHash\0Request.DispositionMessage
+    TitleFormat    REG_SZ    Certificate issued by %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Pending
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0User: %2\0 \0Requester Name: %3\0 \0Request Submission Date (GMT): %4\0 \0Subject: %5\0 \0Certificate Template: %6\0 \0Request Disposition Message: %7
+    BodyArg    REG_MULTI_SZ    Request.RequestID\0upn\0Request.RequesterName\0Request.SubmittedWhen.GMT\0Request.DistinguishedName\0CertificateTemplate\0Request.DispositionMessage
+    TitleFormat    REG_SZ    Certificate request pending on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\RetrievePending
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0Requester Name: %2\0 \0Serial Number: %3\0 \0Subject: %4
+    BodyArg    REG_MULTI_SZ    RequestID\0Request.RequesterName\0SerialNumber\0DistinguishedName
+    TitleFormat    REG_SZ    Certificate retrieved on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Revoked
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0Revocation Date (GMT): %2\0 \0Effective Revocation Date (GMT): %3\0 \0Revocation Reason: %4\0	0	Unspecified\0	1	Key Compromise\0	2	CA Compromise\0	3	Change of Affiliation\0	4	Superseded\0	5	Cease of Operation\0	6	Certificate Hold\0 \0User: %5\0 \0Requester Name: %6\0 \0Serial Number: %7\0 \0Certificate Effective Date (GMT): %8\0 \0Certificate Expiration Date (GMT): %9\0 \0Subject: %10\0 \0Certificate Template: %11\0 \0Certificate Hash: %12\0 \0Request Disposition Message: %13
+    BodyArg    REG_MULTI_SZ    RequestID\0Request.RevokedWhen.GMT\0Request.RevokedEffectiveWhen.GMT\0Request.RevokedReason\0upn\0Request.RequesterName\0SerialNumber\0NotBefore\0NotAfter\0DistinguishedName\0CertificateTemplate\0CertificateHash\0Request.StatusCode
+    TitleFormat    REG_SZ    Certificate revoked on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ExitModules\CertificateAuthority_MicrosoftDefault.Exit\SMTP\Templates\Default\Unrevoked
+    BodyFormat    REG_MULTI_SZ    Request ID: %1\0 \0Revocation Date (GMT): %2\0 \0Effective Revocation Date (GMT): %3\0 \0User: %5\0 \0Requester Name: %6\0 \0Serial Number: %7\0 \0Certificate Effective Date (GMT): %8\0 \0Certificate Expiration Date (GMT): %9\0 \0Subject: %10\0 \0Certificate Template: %11\0 \0Certificate Hash: %12\0 \0Request Disposition Message: %13
+    BodyArg    REG_MULTI_SZ    RequestID\0Request.RevokedWhen.GMT\0Request.RevokedEffectiveWhen.GMT\0Request.RevokedReason\0upn\0Request.RequesterName\0SerialNumber\0NotBefore\0NotAfter\0DistinguishedName\0CertificateTemplate\0CertificateHash\0Request.StatusCode
+    TitleFormat    REG_SZ    Certificate unrevoked on %1
+    TitleArg    REG_MULTI_SZ    SanitizedCAName
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules
+    Active    REG_SZ    CertificateAuthority_MicrosoftDefault.Policy
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\PolicyModules\CertificateAuthority_MicrosoftDefault.Policy
+    RevocationType    REG_DWORD    0x100
+    CAPathLength    REG_DWORD    0xffffffff
+    RevocationURL    REG_SZ    https://%1/CertEnroll/nsrev_%3.asp
+    EnableRequestExtensionList    REG_MULTI_SZ    1.2.840.113549.1.9.15\01.3.6.1.4.1.311.21.1\01.3.6.1.4.1.311.21.2\02.5.29.15
+    EnableEnrolleeRequestExtensionList    REG_MULTI_SZ    1.3.6.1.4.1.311.10.9.1\01.3.6.1.4.1.311.20.2\01.3.6.1.4.1.311.21.7\01.3.6.1.4.1.311.21.10\01.3.6.1.4.1.311.21.11\01.3.6.1.4.1.311.21.12\02.5.29.17\02.5.29.30\02.5.29.32\02.5.29.33\02.5.29.36\02.5.29.37
+    DisableExtensionList    REG_MULTI_SZ    
+    SubjectAltName    REG_SZ    DISABLED: Set to EMail to set SubjectAltName extension to the email address
+    SubjectAltName2    REG_SZ    DISABLED: Set to EMail to set SubjectAltName2 extension to the email address
+    RequestDisposition    REG_DWORD    0x1
+    EditFlags    REG_DWORD    0x11014e
+    DefaultSMIME    REG_MULTI_SZ    1.2.840.113549.3.2,128\01.2.840.113549.3.4,128\01.3.14.3.2.7\01.2.840.113549.3.7
+
+

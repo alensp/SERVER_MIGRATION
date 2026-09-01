@@ -1,0 +1,331 @@
+﻿cmd.exe : 1207.1143.0:<2026/9/1, 18:14:28>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION)
+At C:\temp\VPISERVER_ADCS_Preparation_Audit_And_Backup_v2.ps1:110 char:9
++         cmd.exe /c $CommandLine 2>&1 | Out-String -Width 4096 | Set-Content -Pat ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (1207.1143.0:<20...VALID_FUNCTION):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1207.1342.0:<2026/9/1, 18:14:28>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION): Request.Disposition
+
+ 01.09.2026. 18:14
+1207.1143.0:<2026/9/1, 18:14:28>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION)
+
+1207.1342.0:<2026/9/1, 18:14:28>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION): NotAfter
+
+Schema:
+  Column Name                   Localized Name                Type    MaxLength
+  ----------------------------  ----------------------------  ------  ---------
+  RequestID                     Issued Request ID             Long    4 -- Indexed
+  Request.RequesterName         Requester Name                String  2048 -- Indexed
+  CommonName                    Issued Common Name            String  8192 -- Indexed
+  CertificateTemplate           Certificate Template          String  254 -- Indexed
+  NotBefore                     Certificate Effective Date    Date    8
+  NotAfter                      Certificate Expiration Date   Date    8 -- Indexed
+  SerialNumber                  Serial Number                 String  128 -- Indexed
+
+Row 1:
+  Issued Request ID: 0xf5 (245)
+  Requester Name: "VPI\LANA_DESKTOP$"
+  Issued Common Name: "LANA_DESKTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 03.09.2025. 15:04
+  Certificate Expiration Date: 03.09.2026. 15:04
+  Serial Number: "71000000f5e462431500746e390000000000f5"
+
+Row 2:
+  Issued Request ID: 0xf6 (246)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.29" Directory Email Replication
+  Certificate Effective Date: 04.09.2025. 15:42
+  Certificate Expiration Date: 04.09.2026. 15:42
+  Serial Number: "71000000f602045785a020a3480000000000f6"
+
+Row 3:
+  Issued Request ID: 0xf7 (247)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.28" Domain Controller Authentication
+  Certificate Effective Date: 04.09.2025. 15:42
+  Certificate Expiration Date: 04.09.2026. 15:42
+  Serial Number: "71000000f7568d167929e54e4a0000000000f7"
+
+Row 4:
+  Issued Request ID: 0xf8 (248)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.33" Kerberos Authentication
+  Certificate Effective Date: 04.09.2025. 15:42
+  Certificate Expiration Date: 04.09.2026. 15:42
+  Serial Number: "71000000f8497c10a126d6dc3e0000000000f8"
+
+Row 5:
+  Issued Request ID: 0xfa (250)
+  Requester Name: "VPI\DESKTOP-BTKEUQP$"
+  Issued Common Name: "DESKTOP-BTKEUQP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 15.09.2025. 07:33
+  Certificate Expiration Date: 15.09.2026. 07:33
+  Serial Number: "71000000fa4cf5cf2c0ef4fb360000000000fa"
+
+Row 6:
+  Issued Request ID: 0xfd (253)
+  Requester Name: "VPI\BOZO_LAPTOP$"
+  Issued Common Name: "BOZO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 16.10.2025. 09:53
+  Certificate Expiration Date: 16.10.2026. 09:53
+  Serial Number: "71000000fd22168b01b25b1fb90000000000fd"
+
+Row 7:
+  Issued Request ID: 0xff (255)
+  Requester Name: "VPI\VIPC006$"
+  Issued Common Name: "VIPC006.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 02.11.2025. 12:09
+  Certificate Expiration Date: 02.11.2026. 12:09
+  Serial Number: "71000000ff228b90d2ab0e8dc70000000000ff"
+
+Row 8:
+  Issued Request ID: 0x102 (258)
+  Requester Name: "VPI\ELVIS_LAPTOP$"
+  Issued Common Name: "ELVIS_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 20.01.2026. 11:06
+  Certificate Expiration Date: 20.01.2027. 11:06
+  Serial Number: "7100000102c84a0981f0c2268e000000000102"
+
+Row 9:
+  Issued Request ID: 0x103 (259)
+  Requester Name: "VPI\ROBERTO_LAPTOP$"
+  Issued Common Name: "ROBERTO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 01.02.2026. 12:50
+  Certificate Expiration Date: 01.02.2027. 12:50
+  Serial Number: "7100000103d601b522a18f212b000000000103"
+
+Row 10:
+  Issued Request ID: 0x104 (260)
+  Requester Name: "VPI\ROBERTO_LAPTOP$"
+  Issued Common Name: "ROBERTO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 01.02.2026. 14:18
+  Certificate Expiration Date: 01.02.2027. 14:18
+  Serial Number: "71000001044b95ddf25c638cc7000000000104"
+
+Row 11:
+  Issued Request ID: 0x106 (262)
+  Requester Name: "VPI\ROBERTO_LAPTOP$"
+  Issued Common Name: "ROBERTO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 17.02.2026. 14:18
+  Certificate Expiration Date: 17.02.2027. 14:18
+  Serial Number: "710000010607cbeb37bc9a3c5f000000000106"
+
+Row 12:
+  Issued Request ID: 0x107 (263)
+  Requester Name: "VPI\ROBERTO_LAPTOP$"
+  Issued Common Name: "ROBERTO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 19.02.2026. 16:07
+  Certificate Expiration Date: 19.02.2027. 16:07
+  Serial Number: "7100000107f6f83d478b4538a5000000000107"
+
+Row 13:
+  Issued Request ID: 0x108 (264)
+  Requester Name: "VPI\IRENA-LAPTOP$"
+  Issued Common Name: "IRENA-LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 23.02.2026. 08:00
+  Certificate Expiration Date: 23.02.2027. 08:00
+  Serial Number: "7100000108134ae456369f78ae000000000108"
+
+Row 14:
+  Issued Request ID: 0x109 (265)
+  Requester Name: "VPI\ROBERTO_LAPTOP$"
+  Issued Common Name: "ROBERTO_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 23.02.2026. 08:36
+  Certificate Expiration Date: 23.02.2027. 08:36
+  Serial Number: "71000001091e9c71c310b52091000000000109"
+
+Row 15:
+  Issued Request ID: 0x10c (268)
+  Requester Name: "VPI\LAPTOP-RADETIC$"
+  Issued Common Name: "LAPTOP-RADETIC.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 29.03.2026. 18:39
+  Certificate Expiration Date: 29.03.2027. 18:39
+  Serial Number: "710000010cbe04ebfe3f819dc500000000010c"
+
+Row 16:
+  Issued Request ID: 0x10d (269)
+  Requester Name: "VPI\LAPTOP-SAMUEL$"
+  Issued Common Name: "LAPTOP-SAMUEL.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 31.03.2026. 07:31
+  Certificate Expiration Date: 31.03.2027. 07:31
+  Serial Number: "710000010d2aca28d96f3424f600000000010d"
+
+Row 17:
+  Issued Request ID: 0x10f (271)
+  Requester Name: "VPI\NADJA$"
+  Issued Common Name: "NADJA.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 28.04.2026. 08:01
+  Certificate Expiration Date: 28.04.2027. 08:01
+  Serial Number: "710000010fe0831376544d561700000000010f"
+
+Row 18:
+  Issued Request ID: 0x114 (276)
+  Requester Name: "VPI\NINA_LAPTOP$"
+  Issued Common Name: "NINA_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 14.06.2026. 12:53
+  Certificate Expiration Date: 14.06.2027. 12:53
+  Serial Number: "710000011419ecf30ce6794bc2000000000114"
+
+Row 19:
+  Issued Request ID: 0x116 (278)
+  Requester Name: "VPI\RADETIC_ZEN$"
+  Issued Common Name: "RADETIC_ZEN.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 16.06.2026. 06:58
+  Certificate Expiration Date: 16.06.2027. 06:58
+  Serial Number: "710000011693cbce2b0711a41a000000000116"
+
+Row 20:
+  Issued Request ID: 0x117 (279)
+  Requester Name: "VPI\URAN_ZEN$"
+  Issued Common Name: "URAN_ZEN.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 17.06.2026. 04:05
+  Certificate Expiration Date: 17.06.2027. 04:05
+  Serial Number: "7100000117797a627bd66e8c3e000000000117"
+
+Row 21:
+  Issued Request ID: 0x119 (281)
+  Requester Name: "VPI\ALES_LAPTOP$"
+  Issued Common Name: "ALES_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 22.06.2026. 07:33
+  Certificate Expiration Date: 22.06.2027. 07:33
+  Serial Number: "7100000119a5deb19cb5356f55000000000119"
+
+Row 22:
+  Issued Request ID: 0x11a (282)
+  Requester Name: "VPI\NADJA_LAPTOP$"
+  Issued Common Name: "NADJA_LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 08.07.2026. 12:56
+  Certificate Expiration Date: 08.07.2027. 12:56
+  Serial Number: "710000011a745669264277033b00000000011a"
+
+Row 23:
+  Issued Request ID: 0x11c (284)
+  Requester Name: "VPI\STJEPAN-LAPTOP$"
+  Issued Common Name: "STJEPAN-LAPTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 16.07.2026. 11:35
+  Certificate Expiration Date: 16.07.2027. 11:35
+  Serial Number: "710000011c412f6a788f5e49fa00000000011c"
+
+Row 24:
+  Issued Request ID: 0x11d (285)
+  Requester Name: "VPI\LANA_DESKTOP$"
+  Issued Common Name: "LANA_DESKTOP.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 23.07.2026. 06:56
+  Certificate Expiration Date: 23.07.2027. 06:56
+  Serial Number: "710000011db6bf732e87581f3d00000000011d"
+
+Row 25:
+  Issued Request ID: 0x11e (286)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.29" Directory Email Replication
+  Certificate Effective Date: 23.07.2026. 20:00
+  Certificate Expiration Date: 23.07.2027. 20:00
+  Serial Number: "710000011e87de6ca88b787c5400000000011e"
+
+Row 26:
+  Issued Request ID: 0x11f (287)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.28" Domain Controller Authentication
+  Certificate Effective Date: 23.07.2026. 20:00
+  Certificate Expiration Date: 23.07.2027. 20:00
+  Serial Number: "710000011fccea5d8338e011fe00000000011f"
+
+Row 27:
+  Issued Request ID: 0x120 (288)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.33" Kerberos Authentication
+  Certificate Effective Date: 23.07.2026. 20:00
+  Certificate Expiration Date: 23.07.2027. 20:00
+  Serial Number: "71000001201bfdd60104fb544b000000000120"
+
+Row 28:
+  Issued Request ID: 0x121 (289)
+  Requester Name: "VPI\LADA$"
+  Issued Common Name: "LADA.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 11.08.2026. 20:06
+  Certificate Expiration Date: 11.08.2027. 20:06
+  Serial Number: "7100000121dbc7515d8aef6974000000000121"
+
+Row 29:
+  Issued Request ID: 0x123 (291)
+  Requester Name: "VPI\DC01$"
+  Issued Common Name: "DC01.vpi.local"
+  Certificate Template: "Machine"
+  Certificate Effective Date: 21.08.2026. 15:17
+  Certificate Expiration Date: 21.08.2027. 15:17
+  Serial Number: "71000001234dee831df15b8a26000000000123"
+
+Row 30:
+  Issued Request ID: 0x124 (292)
+  Requester Name: "VPI\DC01$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.29" Directory Email Replication
+  Certificate Effective Date: 21.08.2026. 15:54
+  Certificate Expiration Date: 21.08.2027. 15:54
+  Serial Number: "710000012490adf391660a804b000000000124"
+
+Row 31:
+  Issued Request ID: 0x125 (293)
+  Requester Name: "VPI\DC01$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.28" Domain Controller Authentication
+  Certificate Effective Date: 21.08.2026. 15:54
+  Certificate Expiration Date: 21.08.2027. 15:54
+  Serial Number: "71000001251ea113bc9f5891e3000000000125"
+
+Row 32:
+  Issued Request ID: 0x126 (294)
+  Requester Name: "VPI\DC01$"
+  Issued Common Name: EMPTY
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.1.33" Kerberos Authentication
+  Certificate Effective Date: 21.08.2026. 15:54
+  Certificate Expiration Date: 21.08.2027. 15:54
+  Serial Number: "7100000126f072b6d45ea52d20000000000126"
+
+Row 33:
+  Issued Request ID: 0xdc (220)
+  Requester Name: "VPI\VPI-SERVER$"
+  Issued Common Name: "VPI-SERVER"
+  Certificate Template: "1.3.6.1.4.1.311.21.8.3518790.11605590.2246042.182036.2299985.125.11092839.6888914" Windows Server Solutions Computer Certificate Template
+  Certificate Effective Date: 17.11.2024. 10:22
+  Certificate Expiration Date: 16.11.2029. 10:22
+  Serial Number: "71000000dc120747f98a62be9d0000000000dc"
+
+Maximum Row Index: 33
+
+33 Rows
+ 222 Row Properties, Total Size = 6900, Max Size = 162, Ave Size = 31
+   0 Request Attributes, Total Size = 0, Max Size = 0, Ave Size = 0
+   0 Certificate Extensions, Total Size = 0, Max Size = 0, Ave Size = 0
+ 222 Total Fields, Total Size = 6900, Max Size = 162, Ave Size = 31
+CertUtil: -view command completed successfully.
+

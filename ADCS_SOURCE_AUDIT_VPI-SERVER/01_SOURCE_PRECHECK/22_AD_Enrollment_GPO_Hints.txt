@@ -1,0 +1,41 @@
+﻿
+
+DisplayName      : GPUpdate
+Id               : 19ee0d90-1eec-44d0-8c55-fc9d409dad41
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 11.02.2020. 14:49:48
+ModificationTime : 22.08.2026. 15:53:32
+
+DisplayName      : Default Domain Policy
+Id               : 31b2f340-016d-11d2-945f-00c04fb984f9
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 01.09.2015. 11:47:40
+ModificationTime : 22.08.2026. 15:53:28
+
+DisplayName      : VEEAM BACKUP FIREWALL
+Id               : 5a85f8f7-d509-4083-a55f-c2a6be6e73ae
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 07.02.2020. 13:21:35
+ModificationTime : 22.08.2026. 15:53:32
+
+DisplayName      : Default Domain Controllers Policy
+Id               : 6ac1786c-016f-11d2-945f-00c04fb984f9
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 01.09.2015. 11:47:40
+ModificationTime : 22.08.2026. 15:53:28
+
+DisplayName      : RDP Spajanje
+Id               : 7571f42d-0449-4761-8d9b-6ff0367183ab
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 23.09.2015. 23:12:18
+ModificationTime : 22.08.2026. 15:53:32
+
+DisplayName      : Automatic Certificate Enrollment
+Id               : b142f619-9ff6-40ee-a674-ef0f0489dae7
+GpoStatus        : AllSettingsEnabled
+CreationTime     : 02.07.2019. 13:12:20
+ModificationTime : 22.08.2026. 15:53:32
+
+
+
+

@@ -1,0 +1,22 @@
+﻿
+
+Name                : CertSvc
+RequiredServices    : {}
+CanPauseAndContinue : True
+CanShutdown         : True
+CanStop             : True
+DisplayName         : Active Directory Certificate Services
+DependentServices   : {}
+MachineName         : .
+ServiceName         : CertSvc
+ServicesDependedOn  : {}
+ServiceHandle       : SafeServiceHandle
+Status              : Running
+ServiceType         : Win32OwnProcess
+StartType           : Automatic
+Site                : 
+Container           : 
+
+
+
+

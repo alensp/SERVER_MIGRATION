@@ -1,0 +1,84 @@
+﻿
+USER INFORMATION
+----------------
+
+User Name         SID                                        
+================= ===========================================
+vpi\administrator S-1-5-21-3244861757-230755395-870119879-500
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                 Type             SID                                          Attributes                                                     
+========================================== ================ ============================================ ===============================================================
+Everyone                                   Well-known group S-1-1-0                                      Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Administrators                     Alias            S-1-5-32-544                                 Mandatory group, Enabled by default, Enabled group, Group owner
+BUILTIN\Users                              Alias            S-1-5-32-545                                 Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Remote Desktop Users               Alias            S-1-5-32-555                                 Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Certificate Service DCOM Access    Alias            S-1-5-32-574                                 Mandatory group, Enabled by default, Enabled group             
+BUILTIN\Pre-Windows 2000 Compatible Access Alias            S-1-5-32-554                                 Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\INTERACTIVE                   Well-known group S-1-5-4                                      Mandatory group, Enabled by default, Enabled group             
+CONSOLE LOGON                              Well-known group S-1-2-1                                      Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\Authenticated Users           Well-known group S-1-5-11                                     Mandatory group, Enabled by default, Enabled group             
+NT AUTHORITY\This Organization             Well-known group S-1-5-15                                     Mandatory group, Enabled by default, Enabled group             
+LOCAL                                      Well-known group S-1-2-0                                      Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowHomePageLinks                  Group            S-1-5-21-3244861757-230755395-870119879-1143 Mandatory group, Enabled by default, Enabled group             
+VPI\WseRemoteWebAccessUsers                Group            S-1-5-21-3244861757-230755395-870119879-1137 Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowAddInAccess                    Group            S-1-5-21-3244861757-230755395-870119879-1141 Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowMediaAccess                    Group            S-1-5-21-3244861757-230755395-870119879-1140 Mandatory group, Enabled by default, Enabled group             
+VPI\WseAlertAdministrators                 Group            S-1-5-21-3244861757-230755395-870119879-1144 Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowShareAccess                    Group            S-1-5-21-3244861757-230755395-870119879-1138 Mandatory group, Enabled by default, Enabled group             
+VPI\Domain Admins                          Group            S-1-5-21-3244861757-230755395-870119879-512  Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowComputerAccess                 Group            S-1-5-21-3244861757-230755395-870119879-1139 Mandatory group, Enabled by default, Enabled group             
+VPI\WseRemoteAccessUsers                   Group            S-1-5-21-3244861757-230755395-870119879-1145 Mandatory group, Enabled by default, Enabled group             
+VPI\WseAllowDashboardAccess                Group            S-1-5-21-3244861757-230755395-870119879-1142 Mandatory group, Enabled by default, Enabled group             
+VPI\Group Policy Creator Owners            Group            S-1-5-21-3244861757-230755395-870119879-520  Mandatory group, Enabled by default, Enabled group             
+VPI\Schema Admins                          Group            S-1-5-21-3244861757-230755395-870119879-518  Mandatory group, Enabled by default, Enabled group             
+VPI\Enterprise Admins                      Group            S-1-5-21-3244861757-230755395-870119879-519  Mandatory group, Enabled by default, Enabled group             
+Authentication authority asserted identity Well-known group S-1-18-1                                     Mandatory group, Enabled by default, Enabled group             
+VPI\Scan Operators                         Alias            S-1-5-21-3244861757-230755395-870119879-1108 Mandatory group, Enabled by default, Enabled group, Local Group
+VPI\Denied RODC Password Replication Group Alias            S-1-5-21-3244861757-230755395-870119879-572  Mandatory group, Enabled by default, Enabled group, Local Group
+Mandatory Label\High Mandatory Level       Label            S-1-16-12288                                                                                                
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                  Description                                                    State   
+=============================== ============================================================== ========
+SeLockMemoryPrivilege           Lock pages in memory                                           Disabled
+SeIncreaseQuotaPrivilege        Adjust memory quotas for a process                             Disabled
+SeMachineAccountPrivilege       Add workstations to domain                                     Disabled
+SeSecurityPrivilege             Manage auditing and security log                               Disabled
+SeTakeOwnershipPrivilege        Take ownership of files or other objects                       Disabled
+SeLoadDriverPrivilege           Load and unload device drivers                                 Disabled
+SeSystemProfilePrivilege        Profile system performance                                     Disabled
+SeSystemtimePrivilege           Change the system time                                         Disabled
+SeProfileSingleProcessPrivilege Profile single process                                         Disabled
+SeIncreaseBasePriorityPrivilege Increase scheduling priority                                   Disabled
+SeCreatePagefilePrivilege       Create a pagefile                                              Disabled
+SeBackupPrivilege               Back up files and directories                                  Disabled
+SeRestorePrivilege              Restore files and directories                                  Disabled
+SeShutdownPrivilege             Shut down the system                                           Disabled
+SeDebugPrivilege                Debug programs                                                 Enabled 
+SeSystemEnvironmentPrivilege    Modify firmware environment values                             Disabled
+SeChangeNotifyPrivilege         Bypass traverse checking                                       Enabled 
+SeRemoteShutdownPrivilege       Force shutdown from a remote system                            Disabled
+SeUndockPrivilege               Remove computer from docking station                           Disabled
+SeEnableDelegationPrivilege     Enable computer and user accounts to be trusted for delegation Disabled
+SeManageVolumePrivilege         Perform volume maintenance tasks                               Disabled
+SeImpersonatePrivilege          Impersonate a client after authentication                      Enabled 
+SeCreateGlobalPrivilege         Create global objects                                          Enabled 
+SeIncreaseWorkingSetPrivilege   Increase a process working set                                 Disabled
+SeTimeZonePrivilege             Change the time zone                                           Disabled
+SeCreateSymbolicLinkPrivilege   Create symbolic links                                          Disabled
+
+
+USER CLAIMS INFORMATION
+-----------------------
+
+User claims unknown.
+
+Kerberos support for Dynamic Access Control on this device has been disabled.
+

@@ -1,0 +1,27 @@
+﻿cmd.exe : 1207.1143.0:<2026/9/1, 18:14:27>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION)
+At C:\temp\VPISERVER_ADCS_Preparation_Audit_And_Backup_v2.ps1:110 char:9
++         cmd.exe /c $CommandLine 2>&1 | Out-String -Width 4096 | Set-Content -Pat ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (1207.1143.0:<20...VALID_FUNCTION):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+1207.1342.0:<2026/9/1, 18:14:27>: 0x1 (WIN32: 1 ERROR_INVALID_FUNCTION): Request.Disposition
+
+Schema:
+  Column Name                   Localized Name                Type    MaxLength
+  ----------------------------  ----------------------------  ------  ---------
+  RequestID                     Issued Request ID             Long    4 -- Indexed
+  Request.RequesterName         Requester Name                String  2048 -- Indexed
+  CommonName                    Issued Common Name            String  8192 -- Indexed
+  CertificateTemplate           Certificate Template          String  254 -- Indexed
+  Request.SubmittedWhen         Request Submission Date       Date    8 -- Indexed
+
+Maximum Row Index: 0
+
+0 Rows
+   0 Row Properties, Total Size = 0, Max Size = 0, Ave Size = 0
+   0 Request Attributes, Total Size = 0, Max Size = 0, Ave Size = 0
+   0 Certificate Extensions, Total Size = 0, Max Size = 0, Ave Size = 0
+   0 Total Fields, Total Size = 0, Max Size = 0, Ave Size = 0
+CertUtil: -view command completed successfully.
+

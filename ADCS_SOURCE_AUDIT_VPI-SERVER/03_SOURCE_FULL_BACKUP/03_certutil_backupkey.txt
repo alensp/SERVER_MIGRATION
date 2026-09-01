@@ -1,0 +1,12 @@
+﻿certutil.exe : 419.6336.0:<2026/9/1, 18:18:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+At C:\temp\VPISERVER_ADCS_Preparation_Audit_And_Backup_v2.ps1:594 char:5
++     certutil.exe -config "$CAConfig" -p "$BackupPassword" -backupkey "$KeyBackup ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (419.6336.0:<202...FILE_NOT_FOUND):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+437.2132.0:<2026/9/1, 18:18:54>: 0x80070002 (WIN32: 2 ERROR_FILE_NOT_FOUND)
+
+Backed up keys and certificates for VPI-SERVER\vpi-VPI-SERVER-CA-1 to C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425\03_SOURCE_FULL_BACKUP\CA_BACKUP\PrivateKey\vpi-VPI-SERVER-CA-1.p12.
+CertUtil: -backupKey command completed successfully.
+

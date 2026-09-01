@@ -1,0 +1,16 @@
+﻿
+Display Name                                             Name                   Install State
+------------                                             ----                   -------------
+[X] Active Directory Certificate Services                AD-Certificate             Installed
+    [X] Certification Authority                          ADCS-Cert-Authority        Installed
+    [X] Certificate Enrollment Policy Web Service        ADCS-Enroll-Web-Pol        Installed
+    [X] Certificate Enrollment Web Service               ADCS-Enroll-Web-Svc        Installed
+    [X] Certification Authority Web Enrollment           ADCS-Web-Enrollment        Installed
+    [ ] Network Device Enrollment Service                ADCS-Device-Enrollment     Available
+    [ ] Online Responder                                 ADCS-Online-Cert           Available
+[X] Web Server (IIS)                                     Web-Server                 Installed
+        [X] Active Directory Certificate Services Tools  RSAT-ADCS                  Installed
+            [X] Certification Authority Management Tools RSAT-ADCS-Mgmt             Installed
+
+
+

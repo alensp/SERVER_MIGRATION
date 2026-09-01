@@ -1,0 +1,209 @@
+﻿
+
+Name                          : User
+displayName                   : User
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 41
+msPKI-Certificate-Name-Flag   : -1509949440
+
+Name                          : UserSignature
+displayName                   : User Signature Only
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : -1509949440
+
+Name                          : SmartcardUser
+displayName                   : Smartcard User
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 9
+msPKI-Certificate-Name-Flag   : -1509949440
+
+Name                          : ClientAuth
+displayName                   : Authenticated Session
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : SmartcardLogon
+displayName                   : Smartcard Logon
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : EFS
+displayName                   : Basic EFS
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 41
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : Administrator
+displayName                   : Administrator
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 41
+msPKI-Certificate-Name-Flag   : -1509949440
+
+Name                          : EFSRecovery
+displayName                   : EFS Recovery Agent
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 33
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : CodeSigning
+displayName                   : Code Signing
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : CTLSigning
+displayName                   : Trust List Signing
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : EnrollmentAgent
+displayName                   : Enrollment Agent
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : EnrollmentAgentOffline
+displayName                   : Exchange Enrollment Agent (Offline request)
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : MachineEnrollmentAgent
+displayName                   : Enrollment Agent (Computer)
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 402653184
+
+Name                          : Machine
+displayName                   : Computer
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 402653184
+
+Name                          : DomainController
+displayName                   : Domain Controller
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 41
+msPKI-Certificate-Name-Flag   : 419430400
+
+Name                          : WebServer
+displayName                   : Web Server
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : CA
+displayName                   : Root Certification Authority
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : SubCA
+displayName                   : Subordinate Certification Authority
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : IPSECIntermediateOnline
+displayName                   : IPSec
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 402653184
+
+Name                          : IPSECIntermediateOffline
+displayName                   : IPSec (Offline request)
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : OfflineRouter
+displayName                   : Router (Offline request)
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : CEPEncryption
+displayName                   : CEP Encryption
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : ExchangeUser
+displayName                   : Exchange User
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 1
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : ExchangeUserSignature
+displayName                   : Exchange Signature Only
+msPKI-Template-Schema-Version : 1
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : CrossCA
+displayName                   : Cross Certification Authority
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 8
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : CAExchange
+displayName                   : CA Exchange
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 1
+msPKI-Certificate-Name-Flag   : 1
+
+Name                          : KeyRecoveryAgent
+displayName                   : Key Recovery Agent
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 39
+msPKI-Certificate-Name-Flag   : -2113929216
+
+Name                          : DomainControllerAuthentication
+displayName                   : Domain Controller Authentication
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 134217728
+
+Name                          : DirectoryEmailReplication
+displayName                   : Directory Email Replication
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 41
+msPKI-Certificate-Name-Flag   : 150994944
+
+Name                          : Workstation
+displayName                   : Workstation Authentication
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 134217728
+
+Name                          : RASAndIASServer
+displayName                   : RAS and IAS Server
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 1207959552
+
+Name                          : OCSPResponseSigning
+displayName                   : OCSP Response Signing
+msPKI-Template-Schema-Version : 3
+msPKI-Enrollment-Flag         : 20480
+msPKI-Certificate-Name-Flag   : 402653184
+
+Name                          : KerberosAuthentication
+displayName                   : Kerberos Authentication
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 32
+msPKI-Certificate-Name-Flag   : 138412032
+
+Name                          : WindowsServerSolutionsComputerCertificateTemplate
+displayName                   : Windows Server Solutions Computer Certificate Template
+msPKI-Template-Schema-Version : 2
+msPKI-Enrollment-Flag         : 0
+msPKI-Certificate-Name-Flag   : 1
+
+
+
+

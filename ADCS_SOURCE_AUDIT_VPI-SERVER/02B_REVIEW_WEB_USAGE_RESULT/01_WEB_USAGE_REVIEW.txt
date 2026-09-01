@@ -1,0 +1,20 @@
+﻿ADCS WEB USAGE REVIEW
+=====================
+Computer: VPI-SERVER
+Generated: 09/01/2026 18:18:50
+Lookback requested: 180 days
+
+Observed matching HTTP requests:
+  CertSrv Web Enrollment : 2
+  CEP                    : 0
+  CES                    : 0
+  CertEnroll (CDP/AIA)   : 1195
+
+RESULT: WEB ENROLLMENT DEPENDENCY OBSERVED
+At least one of CertSrv / CEP / CES had matching requests in IIS logs.
+Treat the matching endpoint(s) as potentially used until the clients are identified.
+
+IMPORTANT:
+  - Do not remove CertEnroll/legacy HTTP CDP/AIA based on this result.
+  - Do not uninstall CEP/CES/Web Enrollment until migration design is finalized.
+  - Review 10_IIS_ADCS_Usage_Raw.csv for client IPs/users/endpoints.

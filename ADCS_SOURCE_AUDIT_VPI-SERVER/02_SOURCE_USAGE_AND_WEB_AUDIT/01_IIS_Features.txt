@@ -1,0 +1,44 @@
+﻿
+Display Name                                                  Name                 Install State
+------------                                                  ----                 -------------
+    [X] Certification Authority                               ADCS-Cert-Authority      Installed
+    [X] Certificate Enrollment Policy Web Service             ADCS-Enroll-Web-Pol      Installed
+    [X] Certificate Enrollment Web Service                    ADCS-Enroll-Web-Svc      Installed
+    [X] Certification Authority Web Enrollment                ADCS-Web-Enrollment      Installed
+[X] Web Server (IIS)                                          Web-Server               Installed
+    [X] Web Server                                            Web-WebServer            Installed
+        [X] Common HTTP Features                              Web-Common-Http          Installed
+            [X] Default Document                              Web-Default-Doc          Installed
+            [X] Directory Browsing                            Web-Dir-Browsing         Installed
+            [X] HTTP Errors                                   Web-Http-Errors          Installed
+            [X] Static Content                                Web-Static-Content       Installed
+            [X] HTTP Redirection                              Web-Http-Redirect        Installed
+        [X] Health and Diagnostics                            Web-Health               Installed
+            [X] HTTP Logging                                  Web-Http-Logging         Installed
+            [X] Logging Tools                                 Web-Log-Libraries        Installed
+            [X] Request Monitor                               Web-Request-Monitor      Installed
+            [X] Tracing                                       Web-Http-Tracing         Installed
+        [X] Performance                                       Web-Performance          Installed
+            [X] Static Content Compression                    Web-Stat-Compression     Installed
+        [X] Security                                          Web-Security             Installed
+            [X] Request Filtering                             Web-Filtering            Installed
+            [X] Basic Authentication                          Web-Basic-Auth           Installed
+            [X] Client Certificate Mapping Authentication     Web-Client-Auth          Installed
+            [X] IIS Client Certificate Mapping Authentication Web-Cert-Auth            Installed
+            [X] IP and Domain Restrictions                    Web-IP-Security          Installed
+            [X] Windows Authentication                        Web-Windows-Auth         Installed
+        [X] Application Development                           Web-App-Dev              Installed
+            [X] .NET Extensibility 4.5                        Web-Net-Ext45            Installed
+            [X] ASP                                           Web-ASP                  Installed
+            [X] ASP.NET 4.5                                   Web-Asp-Net45            Installed
+            [X] ISAPI Extensions                              Web-ISAPI-Ext            Installed
+            [X] ISAPI Filters                                 Web-ISAPI-Filter         Installed
+            [X] Server Side Includes                          Web-Includes             Installed
+    [X] Management Tools                                      Web-Mgmt-Tools           Installed
+        [X] IIS Management Console                            Web-Mgmt-Console         Installed
+        [X] IIS 6 Management Compatibility                    Web-Mgmt-Compat          Installed
+            [X] IIS 6 Metabase Compatibility                  Web-Metabase             Installed
+        [X] IIS Management Scripts and Tools                  Web-Scripting-Tools      Installed
+
+
+

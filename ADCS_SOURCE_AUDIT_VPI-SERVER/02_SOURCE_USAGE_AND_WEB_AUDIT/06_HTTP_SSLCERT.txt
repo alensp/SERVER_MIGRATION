@@ -1,0 +1,76 @@
+﻿
+SSL Certificate bindings: 
+------------------------- 
+
+    IP:port                      : 0.0.0.0:443
+    Certificate Hash             : 986942900dae359d9d623485cb42a8b91175892f
+    Application ID               : {4dc3e181-e14b-4a21-b022-59fc669b0914}
+    Certificate Store Name       : My
+    Verify Client Certificate Revocation : Enabled
+    Verify Revocation Using Cached Client Certificate Only : Disabled
+    Usage Check                  : Enabled
+    Revocation Freshness Time    : 0
+    URL Retrieval Timeout        : 0
+    Ctl Identifier               : (null)
+    Ctl Store Name               : (null)
+    DS Mapper Usage              : Enabled
+    Negotiate Client Certificate : Disabled
+
+    IP:port                      : 0.0.0.0:6172
+    Certificate Hash             : 4178245f62fcbca99f7bb138f916e0e7395ce76c
+    Application ID               : {9f6cb07e-f404-4905-9f48-31ff29d46cff}
+    Certificate Store Name       : MY
+    Verify Client Certificate Revocation : Enabled
+    Verify Revocation Using Cached Client Certificate Only : Disabled
+    Usage Check                  : Enabled
+    Revocation Freshness Time    : 0
+    URL Retrieval Timeout        : 0
+    Ctl Identifier               : 
+    Ctl Store Name               : 
+    DS Mapper Usage              : Disabled
+    Negotiate Client Certificate : Disabled
+
+    IP:port                      : 0.0.0.0:65500
+    Certificate Hash             : 6396e6778eef0a9a50aacc94b7d3d4270977b9e2
+    Application ID               : {4dc3e181-e14b-4a21-b022-59fc669b0914}
+    Certificate Store Name       : My
+    Verify Client Certificate Revocation : Enabled
+    Verify Revocation Using Cached Client Certificate Only : Disabled
+    Usage Check                  : Enabled
+    Revocation Freshness Time    : 0
+    URL Retrieval Timeout        : 0
+    Ctl Identifier               : (null)
+    Ctl Store Name               : (null)
+    DS Mapper Usage              : Disabled
+    Negotiate Client Certificate : Disabled
+
+    IP:port                      : 0.0.0.0:65520
+    Certificate Hash             : 6396e6778eef0a9a50aacc94b7d3d4270977b9e2
+    Application ID               : {4dc3e181-e14b-4a21-b022-59fc669b0914}
+    Certificate Store Name       : My
+    Verify Client Certificate Revocation : Enabled
+    Verify Revocation Using Cached Client Certificate Only : Disabled
+    Usage Check                  : Enabled
+    Revocation Freshness Time    : 0
+    URL Retrieval Timeout        : 0
+    Ctl Identifier               : (null)
+    Ctl Store Name               : (null)
+    DS Mapper Usage              : Disabled
+    Negotiate Client Certificate : Disabled
+
+    IP:port                      : 0.0.0.0:9401
+    Certificate Hash             : 6c67d3e6789cbb6718d4fbc958bf541fdfb25e92
+    Application ID               : {c1c52494-c27c-427c-aa00-602f93215488}
+    Certificate Store Name       : MY
+    Verify Client Certificate Revocation : Enabled
+    Verify Revocation Using Cached Client Certificate Only : Disabled
+    Usage Check                  : Enabled
+    Revocation Freshness Time    : 0
+    URL Retrieval Timeout        : 0
+    Ctl Identifier               : (null)
+    Ctl Store Name               : (null)
+    DS Mapper Usage              : Disabled
+    Negotiate Client Certificate : Disabled
+
+
+

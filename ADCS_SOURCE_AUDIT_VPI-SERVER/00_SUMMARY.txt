@@ -1,0 +1,23 @@
+﻿VPI-SERVER ADCS MIGRATION PREPARATION AUDIT
+==========================================
+Computer: VPI-SERVER
+Run: 20260901_181425
+Base path: C:\ADCS_MIGRATION_AUDIT\ADCS_SOURCE_AUDIT_VPI-SERVER_20260901_181425
+
+Phases executed:
+  01_SOURCE_PRECHECK
+  02_SOURCE_USAGE_AND_WEB_AUDIT
+  02B_REVIEW_WEB_USAGE_RESULT
+  03_SOURCE_FULL_BACKUP
+
+Safety:
+  CertSvc was not intentionally stopped.
+  No ADCS/IIS configuration change was performed.
+  No template/CDP/AIA/revocation changes were performed.
+
+SECRET WARNING:
+  This package contains a CA private-key backup and its backup password.
+  Protect the ZIP as highly sensitive material.
+
+Next action:
+  Return the generated ZIP for analysis. Do NOT run ADCS cutover scripts yet.

@@ -1,0 +1,64 @@
+﻿IIS ADCS usage lookback: 180 days
+Since: 03/05/2026 18:14:30
+Total matching requests: 1197
+
+=== CertSrv ===
+Requests: 2
+Top client IPs:
+       2  144.172.109.87
+Top users:
+       2  -
+Last requests:
+  2026-08-09 07:59:11  144.172.109.87  -  /CertSrv/
+  2026-08-09 07:59:11  144.172.109.87  -  /certsrv/
+
+=== CEP ===
+Requests: 0
+
+=== CES ===
+Requests: 0
+
+=== CertEnroll ===
+Requests: 1195
+Top client IPs:
+     183  192.168.200.84
+     116  192.168.200.50
+     106  192.168.200.177
+     105  192.168.200.86
+     103  192.168.200.52
+     102  192.168.200.51
+      99  192.168.200.60
+      88  192.168.200.54
+      74  192.168.200.56
+      60  192.168.200.87
+      59  192.168.200.64
+      54  ::1
+      16  192.168.200.59
+      12  192.168.200.57
+       9  192.168.200.85
+       8  192.168.200.6
+       1  144.172.109.87
+Top users:
+    1195  -
+Last requests:
+  2026-09-01 12:53:25  192.168.200.51  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-09-01 12:02:20  192.168.200.60  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-09-01 07:07:51  192.168.200.177  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-09-01 05:06:43  192.168.200.52  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-09-01 05:05:54  192.168.200.86  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-09-01 04:51:29  192.168.200.60  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 10:11:38  192.168.200.50  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 07:40:04  192.168.200.84  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 07:30:03  192.168.200.84  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:35:47  192.168.200.54  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:32:57  192.168.200.56  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:14:04  192.168.200.177  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:13:08  192.168.200.177  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:05:30  192.168.200.52  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 05:01:41  192.168.200.86  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 04:56:14  192.168.200.60  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-31 04:55:45  192.168.200.51  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-30 21:46:46  192.168.200.6  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-28 22:38:30  192.168.200.84  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+  2026-08-28 18:30:44  192.168.200.6  -  /CertEnroll/vpi-VPI-SERVER-CA-1+.crl
+

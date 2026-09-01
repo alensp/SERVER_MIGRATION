@@ -1,0 +1,14 @@
+﻿WindowsServerSolutionsComputerCertificateTemplate: Windows Server Solutions Computer Certificate Template -- Auto-Enroll: Access is denied.
+DirectoryEmailReplication: Directory Email Replication -- Auto-Enroll: Access is denied.
+DomainControllerAuthentication: Domain Controller Authentication -- Auto-Enroll: Access is denied.
+KerberosAuthentication: Kerberos Authentication -- Auto-Enroll: Access is denied.
+EFSRecovery: EFS Recovery Agent -- Auto-Enroll: Access is denied.
+EFS: Basic EFS -- Auto-Enroll: Access is denied.
+DomainController: Domain Controller -- Auto-Enroll: Access is denied.
+WebServer: Web Server -- Auto-Enroll: Access is denied.
+Machine: Computer -- Auto-Enroll: Access is denied.
+User: User -- Auto-Enroll: Access is denied.
+SubCA: Subordinate Certification Authority -- Auto-Enroll: Access is denied.
+Administrator: Administrator -- Auto-Enroll: Access is denied.
+CertUtil: -CATemplates command completed successfully.
+

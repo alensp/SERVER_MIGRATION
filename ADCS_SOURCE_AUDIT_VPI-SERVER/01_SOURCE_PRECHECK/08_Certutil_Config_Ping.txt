@@ -1,0 +1,4 @@
+﻿Connecting to VPI-SERVER\vpi-VPI-SERVER-CA-1 ...
+Server "vpi-VPI-SERVER-CA-1" ICertRequest2 interface is alive (16ms)
+CertUtil: -ping command completed successfully.
+

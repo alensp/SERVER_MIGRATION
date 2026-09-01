@@ -1,0 +1,34 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : VPI-Server
+   Primary Dns Suffix  . . . . . . . : vpi.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : vpi.local
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : HP Ethernet 1Gb 4-port 331FLR Adapter #4
+   Physical Address. . . . . . . . . : 28-80-23-A6-CF-AB
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.200.4(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.200.1
+   DNS Servers . . . . . . . . . . . : 192.168.200.4
+                                       127.0.0.1
+   Primary WINS Server . . . . . . . : 192.168.200.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{3D06B8C5-CF1E-47CC-A65A-5C395B01F160}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+

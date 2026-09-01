@@ -1,0 +1,11 @@
+﻿
+Count Name                                             
+----- ----                                             
+  827 /CertEnroll/vpi-VPI-SERVER-CA-1+.crl             
+  365 /CertEnroll/vpi-VPI-SERVER-CA-1.crl              
+    2 /certsrv/                                        
+    2 /CertEnroll/vodoprivreda-buzet-VPI-SERVER-CA+.crl
+    1 /CertEnroll/                                     
+
+
+

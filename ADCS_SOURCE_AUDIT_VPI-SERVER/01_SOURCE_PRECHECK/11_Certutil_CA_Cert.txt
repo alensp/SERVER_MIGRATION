@@ -1,0 +1,29 @@
+﻿Expected at least 1 args, received 0
+CertUtil: Missing argument
+
+Usage:
+  CertUtil [Options] -ca.cert OutCACertFile [Index]
+  Retrieve the CA's certificate
+    OutCACertFile -- output file
+    Index -- CA certificate renewal index (defaults to most recent)
+
+Options:
+  -f                -- Force overwrite
+  -Unicode          -- Write redirected output in Unicode
+  -gmt              -- Display times as GMT
+  -seconds          -- Display times with seconds and milliseconds
+  -split            -- Split embedded ASN.1 elements, and save to files
+  -v                -- Verbose operation
+  -privatekey       -- Display password and private key data
+  -pin PIN                  -- Smart Card PIN
+  -config Machine\CAName    -- CA and Machine name string
+  -sid WELL_KNOWN_SID_TYPE  -- Numeric SID
+            22 -- Local System
+            23 -- Network Service
+            24 -- Local Service
+
+CertUtil -?              -- Display a verb list (command list)
+CertUtil -ca.cert -?     -- Display help text for the "ca.cert" verb
+CertUtil -v -?           -- Display all help text for all verbs
+
+
