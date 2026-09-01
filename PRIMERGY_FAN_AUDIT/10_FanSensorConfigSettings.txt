@@ -1,0 +1,185 @@
+﻿
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-0
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-0
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-1
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-1
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-2
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-2
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-3
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-3
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-4
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-4
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-5
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-5
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-6
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-6
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-7
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-7
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-8
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-8
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-9
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-9
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-a
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-a
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                  : Configuration Space Settings
+Description              : Collection of important configuration space values for a PRIMERGY serve
+                           r system fan sensor
+ElementName              : 0-b
+Generation               : 
+InstanceID               : SVS:PGYFanSensorConfigSettings:0-b
+ChangeableType           : 
+ConfigurationName        : 
+ConfFanFailBehavior      : 0
+ConfFanFailShutdownDelay : 90
+PSComputerName           : 
+CimClass                 : root/svs:SVS_PGYFanSensorConfigSettings
+CimInstanceProperties    : {Caption, Description, ElementName, Generation...}
+CimSystemProperties      : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+

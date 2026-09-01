@@ -1,0 +1,10 @@
+﻿
+ Status StartType Name            DisplayName                
+ ------ --------- ----            -----------                
+Running Automatic RemoteConnector ServerView Remote Connector
+Running Automatic SrvCtrl         ServerView Server Control  
+Running Automatic SNMP            SNMP Service               
+Stopped    Manual SNMPTrap        SNMP Trap                  
+
+
+

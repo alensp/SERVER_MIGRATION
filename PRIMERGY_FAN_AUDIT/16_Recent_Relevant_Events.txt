@@ -1,0 +1,2016 @@
+﻿===== System =====
+
+
+TimeCreated      : 1.9.2026. 16:45:28
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has started successfully.
+
+TimeCreated      : 1.9.2026. 16:45:24
+Id               : 1500
+LevelDisplayName : Error
+ProviderName     : SNMP
+Message          : The SNMP Service encountered an error while accessing the registry key SYSTEM\CurrentControlSet\Services\SNMP\Parameters\TrapConfiguration.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The ServerView Server Control service entered the running state.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 7036
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : The ServerView Remote Connector service entered the running state.
+
+TimeCreated      : 1.9.2026. 16:45:18
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView ScSBB3 Device Driver
+                   Service File Name:  \SystemRoot\System32\drivers\ScSBB3.sys
+                   Service Type:  kernel mode driver
+                   Service Start Type:  demand start
+                   Service Account:  
+
+TimeCreated      : 1.9.2026. 16:45:16
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView HTI Device Driver
+                   Service File Name:  \SystemRoot\System32\drivers\SvHTI.sys
+                   Service Type:  kernel mode driver
+                   Service Start Type:  demand start
+                   Service Account:  
+
+TimeCreated      : 1.9.2026. 16:45:15
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView Server Control
+                   Service File Name:  "C:\Program Files\Fujitsu\ServerView Suite\Agents\Server Control\SrvCtrl.exe" /SVAGT
+                   Service Type:  user mode service
+                   Service Start Type:  auto start
+                   Service Account:  LocalSystem
+
+TimeCreated      : 1.9.2026. 16:45:15
+Id               : 7045
+LevelDisplayName : Information
+ProviderName     : Service Control Manager
+Message          : A service was installed in the system.
+                   
+                   Service Name:  ServerView Remote Connector
+                   Service File Name:  "C:\Program Files\Fujitsu\ServerView Suite\Remote Connector\SVRemCon.exe"
+                   Service Type:  user mode service
+                   Service Start Type:  auto start
+                   Service Account:  LocalSystem
+
+TimeCreated      : 1.9.2026. 16:44:58
+Id               : 1003
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has stopped successfully.
+
+TimeCreated      : 1.9.2026. 16:41:27
+Id               : 1001
+LevelDisplayName : Information
+ProviderName     : SNMP
+Message          : The SNMP Service has started successfully.
+
+TimeCreated      : 1.9.2026. 16:41:25
+Id               : 1500
+LevelDisplayName : Error
+ProviderName     : SNMP
+Message          : The SNMP Service encountered an error while accessing the registry key SYSTEM\CurrentControlSet\Services\SNMP\Parameters\TrapConfiguration.
+
+TimeCreated      : 25.8.2026. 3:34:22
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 25.8.2026. 3:29:19
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 24.8.2026. 17:51:38
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 24.8.2026. 17:46:36
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 21.8.2026. 14:26:03
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 21.8.2026. 14:21:00
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+TimeCreated      : 20.8.2026. 18:44:50
+Id               : 1801
+LevelDisplayName : Error
+ProviderName     : Microsoft-Windows-TPM-WMI
+Message          : Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature information is included here.
+                   DeviceAttributes: BaseBoardManufacturer:FUJITSU;FirmwareManufacturer:FUJITSU // American Megatrends International, LLC.;FirmwareVersion:V5.0.0.32 R2.6.0 for D4133-A1x;OEMModelNumber:PRIMERGY RX1330 M6;OEMModelBaseBoard:D4133-A1;OEMModelSystemFamily:SERVER;OEMManufacturerName:FUJITSU;OEMModelSKU:PYR1336RGN;OSArchitecture:amd64;
+                   BucketId: 9aef66525d200f2df7db8d0d9eddaed28faf6eba66d62996c1bf59366d0cfe65
+                   BucketConfidenceLevel: No Data Observed - Action Required
+                   UpdateType: 
+                   For more information, please see https://go.microsoft.com/fwlink/?linkid=2301018.
+
+TimeCreated      : 20.8.2026. 18:39:46
+Id               : 125
+LevelDisplayName : Information
+ProviderName     : Microsoft-Windows-Kernel-Power
+Message          : ACPI thermal zone \_TZ.TZ00 has been enumerated.             
+                   _PSV = 0K             
+                   _TC1 = 0             
+                   _TC2 = 0             
+                   _TSP = 0ms             
+                   _AC0 = 353K             
+                   _AC1 = 328K             
+                   _AC2 = 323K             
+                   _AC3 = 318K             
+                   _AC4 = 313K             
+                   _AC5 = 0K             
+                   _AC6 = 0K             
+                   _AC7 = 0K             
+                   _AC8 = 0K             
+                   _AC9 = 0K             
+                   _CRT = 378K             
+                   _HOT = 0K             
+                   minimum throttle = 0             
+                   _CR3 = 0K
+
+
+
+===== Application =====
+
+
+TimeCreated      : 1.9.2026. 17:02:48
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:48
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:44
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 17:02:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:12
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:58:01
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:35
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:32
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:57:31
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:40
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:38
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:26
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:20
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:20
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:13
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:56:11
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:52
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:52
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:41
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:39
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:22
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:55:04
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:54:51
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:53:45
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000126:SSL routines::unexpected eof while reading
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:58
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:54
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:51:54
+Id               : 2370
+LevelDisplayName : Warning
+ProviderName     : ServerView Remote Connector
+Message          : SSL sends error for the 'handshake tests'. This request will be ignored ! It might be missing encryption or problems with authentications. For more technical information see following data:   IP=::1
+                   SOAP-ENV:Receiver
+                   SSL_ERROR_SSL
+                   error:0A000416:SSL routines::ssl/tls alert certificate unknown
+                   
+                   SSL_accept() failed in soap_ssl_accept() 
+
+TimeCreated      : 1.9.2026. 16:45:56
+Id               : 0
+LevelDisplayName : Information
+ProviderName     : ServerView Server Control
+Message          : Service initialization completed
+
+TimeCreated      : 1.9.2026. 16:45:36
+Id               : 1033
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Windows Installer installed the product. Product Name: ServerView Agents x64 Edition. Product Version: 11.80.04. Product Language: 1033. Manufacturer: Fsas Technologies. Installation success or error status: 0.
+
+TimeCreated      : 1.9.2026. 16:45:36
+Id               : 11707
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Product: ServerView Agents x64 Edition -- Installation operation completed successfully.
+
+TimeCreated      : 1.9.2026. 16:45:34
+Id               : 1042
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Ending a Windows Installer transaction: C:\WINDOWS\Downloaded Installations\{A1E131E6-3E3C-4137-AC4C-79E58DF91807}\ServerViewAgents_x64.msi. Client Process Id: 10156.
+
+TimeCreated      : 1.9.2026. 16:45:19
+Id               : 0
+LevelDisplayName : Information
+ProviderName     : ServerView Remote Connector
+Message          : Service initialization completed
+
+TimeCreated      : 1.9.2026. 16:44:47
+Id               : 1040
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Beginning a Windows Installer transaction: C:\WINDOWS\Downloaded Installations\{A1E131E6-3E3C-4137-AC4C-79E58DF91807}\ServerViewAgents_x64.msi. Client Process Id: 10156.
+
+TimeCreated      : 1.9.2026. 16:43:02
+Id               : 1033
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Windows Installer installed the product. Product Name: ServerView Agents x64 Edition. Product Version: 11.80.04. Product Language: 1033. Manufacturer: Fsas Technologies. Installation success or error status: 1602.
+
+TimeCreated      : 1.9.2026. 16:43:02
+Id               : 11708
+LevelDisplayName : Information
+ProviderName     : MsiInstaller
+Message          : Product: ServerView Agents x64 Edition -- Installation operation failed.
+
+
+
+

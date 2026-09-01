@@ -1,0 +1,40 @@
+﻿=== CPU LOAD ===
+
+Name                   LoadPercentage NumberOfCores NumberOfLogicalProcessors MaxClockSpeed CurrentClockSpeed
+----                   -------------- ------------- ------------------------- ------------- -----------------
+Intel(R) Xeon(R) 6369P              2             8                        16          3300              3300
+
+
+
+=== MEMORY ===
+
+
+TotalMemoryGB : 63,59
+FreeMemoryGB  : 43,43
+UsedPercent   : 31,7
+
+
+
+
+=== TOP CPU PROCESSES ===
+
+ProcessName          Id         CPU WorkingSet64
+-----------          --         --- ------------
+svchost            1244  6762,78125     40914944
+vmwp               5536   4094,6875     38215680
+vmms               1996   3333,9375     64987136
+System                4   3060,4375       180224
+mmc                8676 1773,390625     52998144
+MsMpEng            3456 1658,328125    320110592
+vmwp               5356    901,9375     35491840
+dwm                1620  767,921875    132481024
+svchost            1764       467,5     27918336
+TeamViewer_Service 4844   458,59375     53379072
+vmcompute          3996    457,3125     19042304
+svchost            1912    206,5625      8294400
+lsass              1224   145,90625     29573120
+svchost            3360   118,40625     11456512
+services           1196  108,453125     12337152
+
+
+

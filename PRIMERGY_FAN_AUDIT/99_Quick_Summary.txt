@@ -1,0 +1,33 @@
+﻿=== MODEL / BIOS ===
+
+
+Manufacturer : FUJITSU
+Model        : PRIMERGY RX1330 M6
+
+
+
+
+
+SMBIOSBIOSVersion : V5.0.0.32 R2.6.0 for D4133-A1x                    
+ReleaseDate       : 23.4.2026. 2:00:00
+
+
+
+
+=== ACPI TEMP ===
+
+InstanceName            TemperatureC
+------------            ------------
+ACPI\ThermalZone\TZ00_0         27,9
+
+
+
+=== IMPORTANT SERVICES ===
+
+ Status StartType Name    DisplayName              
+ ------ --------- ----    -----------              
+Running Automatic SNMP    SNMP Service             
+Running Automatic SrvCtrl ServerView Server Control
+
+
+

@@ -1,0 +1,7 @@
+﻿
+InstanceName            TemperatureC
+------------            ------------
+ACPI\ThermalZone\TZ00_0         27,9
+
+
+

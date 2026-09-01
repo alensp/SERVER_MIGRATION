@@ -1,0 +1,629 @@
+﻿
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN1 1 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-0
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN1 2 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-1
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN2 1 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-2
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN2 2 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-3
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN3 1 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-4
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN3 2 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-5
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN4 1 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-6
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN4 2 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-7
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN5 1 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-8
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN5 2 SYS
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-9
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN PSU1
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-a
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : FAN PSU2
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 1
+OperationalStatus           : {2, 1}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Fan ON, running}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYFan
+DeviceID                    : 0-b
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+ActiveCooling               : True
+ControlMode                 : 
+ControlModesSupported       : 
+DesiredControlMode          : 
+DesiredSpeed                : 0
+VariableSpeed               : True
+CoolingDeviceType           : 1
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYFan
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+

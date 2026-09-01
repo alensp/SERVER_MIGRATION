@@ -1,0 +1,113 @@
+﻿
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-0", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-1", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-2", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-3", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-4", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-5", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-6", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-7", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-8", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-9", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-a", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+GroupComponent        : SVS_PGYComputerSystem (Name = "EWCQ004772", CreationClassName = "SVS_PGYCo
+                        mputerSystem")
+PartComponent         : SVS_PGYFan (CreationClassName = "SVS_PGYFan", DeviceID = "0-b", SystemCrea
+                        tionClassName = "SVS_PGYComputerSystem", SystemName = "EWCQ004772")
+PSComputerName        : 
+CimClass              : root/svs:SVS_PGYSystemFan
+CimInstanceProperties : {GroupComponent, PartComponent}
+CimSystemProperties   : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+

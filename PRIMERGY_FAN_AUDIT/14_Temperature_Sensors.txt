@@ -1,0 +1,1240 @@
+﻿
+=== SVS_PGYTemperatureSensor ===
+
+
+Caption                     : 
+Description                 : 
+ElementName                 : Ambient
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-0
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 26
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 39
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 36
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PCIe Zone1
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-1
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 32
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 59
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 55
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PCIe Zone2
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-2
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 36
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 64
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 60
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : CPU
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-3
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 48
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 101
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 100
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : MEM 1A
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-4
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 31
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 82
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 78
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : MEM 1B
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-5
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 32
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 82
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 78
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : MEM 2A
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-6
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 31
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 82
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 78
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : MEM 2B
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-7
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 32
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 82
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 78
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PSU1 Inlet
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-8
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 36
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 68
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 64
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PSU2 Inlet
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-9
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 38
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 68
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 64
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PSU1
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-a
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 42
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 94
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 90
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PSU2
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-b
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 43
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 94
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 90
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : RAID Controller
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-e
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 46
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 109
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 105
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : Expander
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-f
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 42
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 109
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 105
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : SSD
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-11
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 36
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 73
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 70
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+Caption                     : 
+Description                 : 
+ElementName                 : PCH
+Generation                  : 
+InstanceID                  : 
+CommunicationStatus         : 
+DetailedStatus              : 1
+HealthState                 : 5
+InstallDate                 : 
+Name                        : 
+OperatingStatus             : 
+OperationalStatus           : {2}
+PrimaryStatus               : 1
+Status                      : OK
+StatusDescriptions          : {Temperature normal}
+AvailableRequestedStates    : 
+EnabledDefault              : 2
+EnabledState                : 2
+OtherEnabledState           : 
+RequestedState              : 12
+TimeOfLastStateChange       : 
+TransitioningToState        : 12
+AdditionalAvailability      : 
+Availability                : 
+CreationClassName           : SVS_PGYTemperatureSensor
+DeviceID                    : 0-14
+ErrorCleared                : 
+ErrorDescription            : 
+IdentifyingDescriptions     : 
+LastErrorCode               : 
+LocationIndicator           : 
+MaxQuiesceTime              : 
+OtherIdentifyingInfo        : 
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+PowerOnHours                : 
+StatusInfo                  : 
+SystemCreationClassName     : SVS_PGYComputerSystem
+SystemName                  : EWCQ004772
+TotalPowerOnHours           : 
+CurrentState                : Normal
+OtherSensorTypeDescription  : 
+PollingInterval             : 
+PossibleStates              : {Unknown, Normal, Upper Non-Critical, Upper Critical}
+SensorContext               : 
+SensorType                  : 2
+Accuracy                    : 
+AccuracyUnits               : 
+BaseUnits                   : 2
+CurrentReading              : 43
+EnabledThresholds           : 
+Hysteresis                  : 
+IsLinear                    : 
+LowerThresholdCritical      : 
+LowerThresholdFatal         : 
+LowerThresholdNonCritical   : 
+MaxReadable                 : 
+MinReadable                 : 
+NominalReading              : 
+NormalMax                   : 
+NormalMin                   : 
+ProgrammaticAccuracy        : 
+RateUnits                   : 0
+Resolution                  : 
+SettableThresholds          : 
+SupportedThresholds         : {1, 3}
+Tolerance                   : 
+UnitModifier                : 0
+UpperThresholdCritical      : 103
+UpperThresholdFatal         : 
+UpperThresholdNonCritical   : 98
+ValueFormulation            : 2
+PSComputerName              : 
+CimClass                    : root/svs:SVS_PGYTemperatureSensor
+CimInstanceProperties       : {Caption, Description, ElementName, Generation...}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+
+

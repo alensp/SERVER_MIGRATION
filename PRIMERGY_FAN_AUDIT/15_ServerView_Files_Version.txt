@@ -1,0 +1,12 @@
+﻿
+File                                                                              FileVersion ProductVersion
+----                                                                              ----------- --------------
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Configuration Tools\SCConfig.exe 11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Diagnostics Tools\SCDoctor.exe   11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Maintenance Tools\SCConfig.exe   11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\SCM\SCM.exe                      11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Agents\Server Control\SrvCtrl.exe       11.80.04.01 11.80.04.01   
+C:\Program Files\Fujitsu\ServerView Suite\Remote Connector\SVRemCon.exe           4.30.00.02  4.30.00.02    
+
+
+

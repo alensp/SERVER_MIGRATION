@@ -1,0 +1,46 @@
+﻿
+Status Class    FriendlyName                            InstanceId                                                                
+------ -----    ------------                            ----------                                                                
+OK     Computer FUJITSU PRIMERGY RX1330 M6              SWD\COMPUTER\MFG_FUJITSU&FAM_SERVER&PROD_PRIMERGY_RX1330_M6&SKU_PYR1336RGN
+OK     System   Microsoft Generic IPMI Compliant Device ACPI\IPI0001\0                                                            
+OK     System   Microsoft System Management BIOS Driver ROOT\MSSMBIOS\0000                                                        
+OK     System   Fujitsu FUJ0430 Device                  ACPI\FUJ0430\2&DABA3FF&0                                                  
+
+
+
+=== SYSTEM DRIVERS ===
+
+
+Name        : AcpiPmi
+DisplayName : ACPI Power Meter Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\DriverStore\FileRepository\acpipmi.inf_amd64_3ced06eb61dcc792\acpipmi.sys
+
+Name        : IPMIDRV
+DisplayName : IPMIDRV
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\IPMIDrv.sys
+
+Name        : GabiAcpi
+DisplayName : FUJ0420 Service
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\GabiAcpi.sys
+
+Name        : SvHTI
+DisplayName : ServerView HTI Device Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\SvHTI.sys
+
+Name        : ScSBB3
+DisplayName : ServerView ScSBB3 Device Driver
+State       : Running
+StartMode   : Manual
+PathName    : C:\WINDOWS\system32\drivers\ScSBB3.sys
+
+
+
+

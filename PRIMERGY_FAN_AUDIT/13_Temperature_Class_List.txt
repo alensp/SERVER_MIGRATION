@@ -1,0 +1,10 @@
+﻿
+CimClassName                              
+------------                              
+SVS_PGYAssociatedTemperatureSensor        
+SVS_PGYAssociatedTemperatureSensorSettings
+SVS_PGYTemperatureSensor                  
+SVS_PGYTemperatureSensorConfigSettings    
+
+
+
