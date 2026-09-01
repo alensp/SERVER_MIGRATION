@@ -1,0 +1,29 @@
+﻿HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CommonName:
+
+  CommonName REG_SZ = vpi-VPI-SERVER-CA-1
+CertUtil: -getreg command completed successfully.
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CAType:
+
+  CAType REG_DWORD = 0
+    ENUM_ENTERPRISE_ROOTCA -- 0
+CertUtil: -getreg command completed successfully.
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ValidityPeriod:
+
+  ValidityPeriod REG_SZ = Years
+CertUtil: -getreg command completed successfully.
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\ValidityPeriodUnits:
+
+  ValidityPeriodUnits REG_DWORD = 1e (30)
+CertUtil: -getreg command completed successfully.
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CRLPeriod:
+
+  CRLPeriod REG_SZ = Weeks
+CertUtil: -getreg command completed successfully.
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\CertSvc\Configuration\vpi-VPI-SERVER-CA-1\CRLPeriodUnits:
+
+  CRLPeriodUnits REG_DWORD = 1
+CertUtil: -getreg command completed successfully.
+

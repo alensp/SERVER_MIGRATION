@@ -1,0 +1,89 @@
+﻿X509 Certificate Revocation List:
+Version: 2
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Issuer:
+    CN=vodoprivreda-buzet-VPI-SERVER-CA
+  Name Hash(sha1): 5e15cd4d48deda19cff88b43e560ef6c08d92ddc
+  Name Hash(md5): 29f1074b2c9c8d94d790efac0c7d0c26
+
+ ThisUpdate: 01.07.2019. 10:18
+ NextUpdate: 05.07.2019. 10:18
+CRL Entries: 3
+  Serial Number: 6d00000004af90707ed8622ddd000000000004
+   Revocation Date: 02.07.2019. 10:09
+  Extensions: 1
+    2.5.29.21: Flags = 0, Length = 3
+    CRL Reason Code
+        Cessation of Operation (5)
+
+  Serial Number: 6d000000030541e87aa3f8cbf1000000000003
+   Revocation Date: 02.07.2019. 10:09
+  Extensions: 1
+    2.5.29.21: Flags = 0, Length = 3
+    CRL Reason Code
+        Cessation of Operation (5)
+
+  Serial Number: 6d000000024c05b1e2579d333b000000000002
+   Revocation Date: 02.07.2019. 10:09
+  Extensions: 1
+    2.5.29.21: Flags = 0, Length = 3
+    CRL Reason Code
+        Cessation of Operation (5)
+
+CRL Extensions: 6
+    2.5.29.35: Flags = 0, Length = 18
+    Authority Key Identifier
+        KeyID=0d b6 6a 10 2b f2 12 11 ee bb b0 fc fb 74 67 64 0b 49 45 4f
+
+    1.3.6.1.4.1.311.21.1: Flags = 0, Length = 3
+    CA Version
+        V0.0
+
+    2.5.29.20: Flags = 0, Length = 3
+    CRL Number
+        CRL Number=19
+
+    1.3.6.1.4.1.311.21.4: Flags = 0, Length = f
+    Next CRL Publish
+        03.srpnja.2019. 10:18:06
+
+    2.5.29.27: Flags = 1(Critical), Length = 3
+    Delta CRL Indicator
+        Minimum Base CRL Number=10
+
+    1.3.6.1.4.1.311.21.14: Flags = 0, Length = d1
+    Published CRL Locations
+        [1]Locations
+             Distribution Point Name:
+                  Full Name:
+                       URL=ldap:///CN=vodoprivreda-buzet-VPI-SERVER-CA,CN=VPI-Server,CN=CDP,CN=Public Key Services,CN=Services,CN=Configuration,DC=vpi,DC=local?deltaRevocationList?base?objectClass=cRLDistributionPoint (ldap:///CN=vodoprivreda-buzet-VPI-SERVER-CA,CN=VPI-Server,CN=CDP,CN=Public%20Key%20Services,CN=Services,CN=Configuration,DC=vpi,DC=local?deltaRevocationList?base?objectClass=cRLDistributionPoint)
+
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  0a 5b 43 f7 4f 4f c8 3e  dd 5f 7c 74 94 0e c2 b2
+    0010  01 9f 70 55 8e be 45 23  fd be ab 0a 74 aa e8 12
+    0020  16 f9 a1 5e 6e 24 62 42  45 b4 9e 61 82 3e 2c 57
+    0030  23 3b 1f 00 bf 81 36 5f  a1 4b de 5f 0d 4b 0a 6a
+    0040  33 1c 0a dd 66 57 57 3b  44 f1 74 53 52 0e 75 ee
+    0050  da 5c c5 e9 4f 95 9c 69  cd 4b b2 b3 4c dc 25 cc
+    0060  02 85 e3 d5 03 dd 19 d5  51 3b 8e 76 dd fa 14 15
+    0070  4f 66 6a 89 ad df 5e 9a  8b 61 f3 f9 b5 99 20 81
+    0080  74 0a 6c 0b 9f 1a a6 a3  de 44 6c 6e 89 c6 ad 15
+    0090  0c 54 c7 8e 83 db 42 b3  88 f3 43 0a 7a de 35 ff
+    00a0  da c2 d9 e8 05 85 95 53  16 42 de 52 98 98 b7 fa
+    00b0  ac 84 a3 7e cd 23 aa 7b  c3 69 6f e6 93 21 e5 27
+    00c0  bd 22 32 6a 80 46 d6 7a  70 f1 cf 76 ed a5 17 b2
+    00d0  8c 8c 95 f5 4f e8 63 bf  bf 84 dd d6 c6 9e 9a cd
+    00e0  f2 1e 4e 75 11 ec 6b 27  d1 39 f3 94 b3 91 17 f0
+    00f0  3b 66 8d b6 7e ee f1 8c  d1 50 a2 bd db ba f3 0c
+CRL Hash(md5): 73 3a e0 7e a1 48 eb 62 5f 9b 5c e6 99 f4 89 c8
+CRL Hash(sha1): d8 f9 ad 2a a7 b7 29 cd ac 3f 83 b0 c5 bd f2 ba 5d 13 2a 81
+CRL Hash(sha256): 21850216a22ce7c16da00af3338f63a4ceb5e7568b258347e75381c1bdb6572e
+Signature Hash: 89db6faed2767625ed9e5a5d6c20e5cab84abf456a93e1ab095cb3cedd89c6f2
+CertUtil: -dump command completed successfully.

@@ -1,0 +1,97 @@
+﻿X509 Certificate:
+Version: 3
+Serial Number: 44200c1b9db2cb884b405cfd541f5b0f
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Issuer:
+    CN=vodoprivreda-buzet-VPI-SERVER-CA
+  Name Hash(sha1): 5e15cd4d48deda19cff88b43e560ef6c08d92ddc
+  Name Hash(md5): 29f1074b2c9c8d94d790efac0c7d0c26
+
+ NotBefore: 02.07.2019. 10:08
+ NotAfter: 24.06.2059. 10:08
+
+Subject:
+    CN=vodoprivreda-buzet-VPI-SERVER-CA
+  Name Hash(sha1): 5e15cd4d48deda19cff88b43e560ef6c08d92ddc
+  Name Hash(md5): 29f1074b2c9c8d94d790efac0c7d0c26
+
+Public Key Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.1 RSA
+    Algorithm Parameters:
+    05 00
+Public Key Length: 2048 bits
+Public Key: UnusedBits = 0
+    0000  30 82 01 0a 02 82 01 01  00 92 a9 4d c3 1c 63 83
+    0010  1f 76 d8 78 ff 8d 23 1c  8f 25 77 00 3c 9a 28 d9
+    0020  da c2 bd bb 54 58 81 1a  ed c3 22 e6 7f ca 40 fb
+    0030  71 17 57 3e 02 c5 fa 0d  ba 5a 12 8f 7c 35 1a 62
+    0040  50 e7 df 2f c0 39 ff a7  bf 61 29 f2 89 2f 7d 50
+    0050  3b 71 35 db b2 f6 52 05  cb 81 23 dc 52 1e fb 91
+    0060  0d dd 34 47 bf 72 13 79  da 49 25 51 97 b2 00 16
+    0070  6a 59 ef b8 8a c9 68 6c  f8 8e ff e5 43 af 6a 9e
+    0080  4a 02 0d 2a ed ec 7f 83  fe f8 ed 7a 25 31 a5 ba
+    0090  37 f0 7f a9 b7 5b 26 53  39 d6 d8 ef 6b 92 b2 05
+    00a0  fa 65 9c 91 13 02 57 32  38 ea 4b 24 99 2d 2c 3c
+    00b0  5c 85 10 6c ab bc 70 61  65 f2 3a de 20 c6 60 b7
+    00c0  fc cc ea 3f aa 8a 80 3d  8c eb eb c6 44 61 4c 0c
+    00d0  e7 2a c1 f3 50 f0 59 9c  fb 37 25 28 c3 a1 03 23
+    00e0  2c 13 6c bc af 24 13 af  80 8f 05 02 de 6f 1f 1f
+    00f0  95 82 7b 0b f7 c6 3c 12  e9 20 55 a4 b6 ce 6a 28
+    0100  1a 5b 96 d1 06 cf 45 f3  71 02 03 01 00 01
+Certificate Extensions: 5
+    2.5.29.15: Flags = 1(Critical), Length = 4
+    Key Usage
+        Digital Signature, Certificate Signing, Off-line CRL Signing, CRL Signing (86)
+
+    2.5.29.19: Flags = 1(Critical), Length = 5
+    Basic Constraints
+        Subject Type=CA
+        Path Length Constraint=None
+
+    2.5.29.14: Flags = 0, Length = 16
+    Subject Key Identifier
+        e6 d9 e8 01 84 a6 34 d3 38 7a 3e 83 c9 72 a2 61 f4 db f7 00
+
+    1.3.6.1.4.1.311.21.1: Flags = 0, Length = 5
+    CA Version
+        V2.2
+
+    1.3.6.1.4.1.311.21.2: Flags = 0, Length = 16
+    Previous CA Certificate Hash
+        28 8f 77 ae 15 a9 a0 d2 ff 96 ed d7 f4 14 e2 52 05 10 82 8a
+
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  f4 a4 22 ca a4 00 bf 3a  88 af ca 17 5e 96 d0 94
+    0010  74 e9 f6 20 e7 ff 29 e6  f0 33 5e 83 66 77 de bf
+    0020  5d a5 43 cf 44 c6 91 85  37 67 7a 26 32 d2 81 ee
+    0030  a8 b5 89 7c 0a 6f 3b e7  2a ea dd 36 b0 b3 38 d9
+    0040  13 cc 7a 86 81 d1 cb b4  7c 3a a0 1b 80 19 69 68
+    0050  cf 2c 54 f3 fa 55 a6 f7  62 d6 38 85 43 cc 50 2c
+    0060  02 e3 25 da ae b9 be 30  a6 ce 6f b5 84 f3 64 47
+    0070  43 cd fd 2d 67 81 81 95  a8 ea e0 0e cd e8 a6 33
+    0080  14 d8 40 33 42 77 30 76  78 bb e2 92 8b 1f 18 71
+    0090  1f a6 e2 e1 87 e6 b2 19  49 88 42 74 6e 77 9d 0b
+    00a0  2a 7f 91 64 89 36 90 b9  e2 96 c2 f0 ca a6 0d 60
+    00b0  53 27 66 68 6a 5a f2 a1  8d 2d 6a 75 fa 97 8c 94
+    00c0  0d 8e 85 5f 9f 0d 29 d1  3e 04 83 ac e6 51 d3 e4
+    00d0  18 26 bf b0 30 16 6a 1f  13 b5 4c da fa d7 48 26
+    00e0  2b c8 46 1a 8d ae 93 ca  82 85 ad 02 8f c2 38 c0
+    00f0  09 73 b9 7b 62 d7 5d 75  27 5a d9 fb bc a8 bc 83
+Signature matches Public Key
+Root Certificate: Subject matches Issuer
+Key Id Hash(rfc-sha1): e6 d9 e8 01 84 a6 34 d3 38 7a 3e 83 c9 72 a2 61 f4 db f7 00
+Key Id Hash(sha1): e9 ea bc 1b 80 ea 27 b7 59 3a e2 4c 6e 19 1f 72 26 94 11 2d
+Key Id Hash(md5): 57a19c8a006ff17a51161842edf84fe0
+Key Id Hash(sha256): 4ebf7d72ca40dada9b48e0a8ef4e26d0c1b721f0808d11352f39e5c223385a99
+Cert Hash(md5): ea 0f 49 bb 80 10 8e 8c 24 19 80 ed 37 07 f6 39
+Cert Hash(sha1): 00 d4 f6 c2 88 0b 98 2f c4 2a 85 81 7d f2 62 72 52 27 b5 a5
+Cert Hash(sha256): d269664cbcf339e29760ee7bba395f42db44c94847c5928342043c59bb55b14b
+Signature Hash: 4fbfee6faccc886cf141e60db5d0a67f763a740f2277c2b675422d721c0f60fa
+CertUtil: -dump command completed successfully.

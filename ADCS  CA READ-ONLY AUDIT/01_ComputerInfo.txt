@@ -1,0 +1,16 @@
+﻿VPI-Server
+
+
+CSName         : VPI-SERVER
+Caption        : Microsoft Windows Server 2012 R2 Standard
+Version        : 6.3.9600
+BuildNumber    : 9600
+OSArchitecture : 64-bit
+
+
+
+
+31.kolovoza.2026. 17:44:48
+
+
+

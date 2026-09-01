@@ -1,0 +1,195 @@
+﻿
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+  Next Run Time:                        N/A
+  Status:                               Disabled
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        N/A
+  Last Result:                          1
+  Author:                               Microsoft Corporation
+> Task To Run:                          %windir%\system32\appidcertstorecheck.exe 
+  Start In:                             N/A
+> Comment:                              Inspects the AppID certificate cache for invalid or revoked certificates.
+  Scheduled Task State:                 Disabled
+  Idle Time:                            Only Start If Idle for 3 minutes, If Not Idle Retry For 1380 minutes Stop the task if Idle State end
+  Power Management:                     Stop On Battery Mode, No Start On Batteries
+  Run As User:                          LOCAL SERVICE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: 72:00:00
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        At system start up
+  Repeat: Until: Duration:              N/A
+  Repeat: Stop If Still Running:        N/A
+  
+> Folder: \Microsoft\Windows\CertificateServicesClient
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\SystemTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 11:31:59
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          SYSTEM
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        When an event occurs
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\SystemTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 11:31:59
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          SYSTEM
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        At system start up
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\SystemTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 11:31:59
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          SYSTEM
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        At system start up
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 17:43:11
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          INTERACTIVE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        When an event occurs
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 17:43:11
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          INTERACTIVE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        At system start up
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+  Next Run Time:                        N/A
+  Status:                               Ready
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        31.08.2026. 17:43:11
+  Last Result:                          0
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Enabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode
+  Run As User:                          INTERACTIVE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        At logon time
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+  Next Run Time:                        N/A
+  Status:                               Disabled
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        N/A
+  Last Result:                          1
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Disabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode, No Start On Batteries
+  Run As User:                          INTERACTIVE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        When an event occurs
+  Repeat: Stop If Still Running:        N/A
+  
+  HostName:                             VPI-SERVER
+> TaskName:                             \Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+  Next Run Time:                        N/A
+  Status:                               Disabled
+  Logon Mode:                           Interactive/Background
+  Last Run Time:                        N/A
+  Last Result:                          1
+  Author:                               Microsoft Corporation
+  Task To Run:                          COM handler
+  Start In:                             N/A
+> Comment:                              Certificate Services Client automatically manages digital identities such as Certificates, Keys and Credentials for the users and the machine, enabling enrollment, roaming and other services.
+  Scheduled Task State:                 Disabled
+  Idle Time:                            Disabled
+  Power Management:                     Stop On Battery Mode, No Start On Batteries
+  Run As User:                          INTERACTIVE
+  Delete Task If Not Rescheduled:       Disabled
+  Stop Task If Runs X Hours and X Mins: Disabled
+  Schedule:                             Scheduling data is not available in this format.
+  Schedule Type:                        When an event occurs
+
+
+
